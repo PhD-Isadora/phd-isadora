@@ -1,12 +1,12 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Syncope Collectif'
+subtitle: 'Dessins, animations et projets avec la compagnie de théâtre Syncope Collectif'
 date: 2018-06-30 00:00:00
 description: Board is a stylish full-width masonry grid theme. Made for designers, artists, photographers and developers to show off their best work.
-featured_image: '/images/demo/square-05.jpg'
+featured_image: '/images/demo/couverture.jpg'
 ---
 
-![](/images/demo/landscape-01.jpg)
+![](/images/demo/couverture.jpg)
 
 ## Demo content
 

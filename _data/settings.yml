@@ -10,7 +10,7 @@ menu_settings:
   menu_items:
     - title: 'Portfolio'
       url: '/'
-    - title: 'Journal'
+    - title: 'PhD journal and other writings'
       url: '/blog/'
     - title: 'About'
       url: '/about'
@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: PhD notes, journal and portfolio :)
+  footer_tagline: Portfolio, PhD notes and journal
 
 grid_settings:
   overlay_opacity: 0.8
