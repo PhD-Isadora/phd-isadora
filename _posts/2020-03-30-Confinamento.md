@@ -1,8 +1,8 @@
 ---
-title: 'Confinamento até dia 14'
+title: 'Notas sobre as duas primeiras semanas de confinamento'
 date: 2020-03-30 00:00:00
 subtitle: ...
-description: Notas
+description: ...
 featured_image: '/images/Journal/Confinamento/couverture.png'
 ---
 

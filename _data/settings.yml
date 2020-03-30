@@ -12,10 +12,13 @@ menu_settings:
       url: '/'
     - title: 'PhD journal and other writings'
       url: '/blog/'
+    - title: 'Teaching'
+      url: '/teaching/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
+    
 
 footer_settings:
   footer_tagline: Portfolio, PhD notes and journal
