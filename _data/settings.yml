@@ -13,7 +13,7 @@ menu_settings:
     - title: 'PhD journal and other writings'
       url: '/blog/'
     - title: 'Teaching'
-      url: '/teaching/'
+      url: '/things/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'

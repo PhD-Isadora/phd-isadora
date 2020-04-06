@@ -1,6 +1,6 @@
 ---
-title: 'Masterclass Systèmes Génératifs'
-subtitle: 'Master 1 Arts et Technologies de l'Image - Université Paris 8'
+title: 'test'
+subtitle: 'test'
 date: 2020-03-29 00:00:00
 description: 
 featured_image: '/images/Classes/SystemesGeneratifs/2.png'

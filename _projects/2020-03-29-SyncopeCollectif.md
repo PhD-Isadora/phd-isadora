@@ -1,7 +1,7 @@
 ---
 title: 'Syncope Collectif'
-subtitle: 'Dessins, animations et autres projets avec la compagnie de théâtre Syncope Collectif'
-date: 2020-03-29 00:00:00
+subtitle: 'Dessins, animations et autres projets avec la compagnie de théâtre Syncope Collectif (2019/2020)'
+date: 2020-03-31 00:00:00
 description: 
 featured_image: '/images/01LVP/couverture.jpg'
 ---
