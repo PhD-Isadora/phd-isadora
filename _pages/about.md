@@ -1,7 +1,7 @@
 ---
-title: Lisa Terlles (aka Isadora)
-subtitle: 
-description: 
+title: Isadora 
+subtitle: 'Artist and PhD student, based in Paris'
+description: 'Artist and PhD student, based in Paris'
 featured_image: /images/about.png
 ---
 
