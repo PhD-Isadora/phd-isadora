@@ -1,6 +1,6 @@
 ---
 title: 'Notas sobre as duas primeiras semanas de confinamento'
-date: 2020-03-30 00:00:00
+date: 2020-04-10 00:00:00
 subtitle: ...
 description: ...
 featured_image: '/images/Journal/Confinamento/couverture.png'
