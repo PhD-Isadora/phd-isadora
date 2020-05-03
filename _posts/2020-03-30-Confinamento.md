@@ -1,5 +1,5 @@
 ---
-title: 'Notas sobre as duas primeiras semanas de confinamento'
+title: 'Notas sobre o confinamento'
 date: 2020-04-10 00:00:00
 subtitle: ...
 description: ...
