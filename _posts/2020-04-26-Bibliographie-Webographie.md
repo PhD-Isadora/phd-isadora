@@ -81,6 +81,7 @@ featured_image: '/images/Journal/Deuxieme-annee-de-these/couverture.PNG'
 | Evolving Virtual Creatures | Karl Sims | 1994
 | Artificial Evolution for Computer Graphics | Karl Sims | 1991
 | Particle Animation and Rendering Using Data Parallel Computation | Karl Sims | 1990
+|  |  |  |
 | [Conference Proceedings of Generative Art Conferences](http://www.artscience-ebookshop.com/)
 
 
@@ -89,6 +90,11 @@ featured_image: '/images/Journal/Deuxieme-annee-de-these/couverture.PNG'
 #### Vie artificielle et sciences sociales
 
 | Growing Artificial Societies : Social science from the bottom up | Joshua M. Epstein, Robert Axtell | 1996
+
+#### Science cognitives, Phénomenologie
+
+| Enaction : Towards a New Paradigm for Cognitive Science | Edited by John Stewart, Olivier Gapenne and Ezequiel A. Di Paolo | 2010 |
+| L'Inscription corporelle de l'esprit. Sciences cognitives et expérience humaine | Eleanor Rosch, Evan Thompson, Francisco j. Varela | 1993 |
 
 #### Méthodologie
 
@@ -107,7 +113,7 @@ featured_image: '/images/Journal/Deuxieme-annee-de-these/couverture.PNG'
 
 ## Basique
 
-
+* [100 Notions pour l'art numérique](http://leden.org/sam/artNumerique/index.php?langue=fr)
 
 
 ## Spécialisé
