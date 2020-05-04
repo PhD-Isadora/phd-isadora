@@ -103,7 +103,9 @@ Concepts travaillés :
 
 #### Séminaire INREV 0/03/2020 : Enaction et évolutionnisme
 
-Suggestion bibliographique
+Suggestion bibliographique : 
+
+* 
 
 
 #### Évolution de la recherche-création

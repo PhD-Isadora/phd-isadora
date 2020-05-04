@@ -37,6 +37,8 @@ featured_image: '/images/Journal/Deuxieme-annee-de-these/couverture.PNG'
 | Participation | Claire Bishop | 2006
 | La relation comme forme : l'interactivité en art | Jean-Louis Boissier | 2008
 
+---
+
 ## Spécialisé
 
 #### Vie articielle et art - approche générale
@@ -74,6 +76,8 @@ featured_image: '/images/Journal/Deuxieme-annee-de-these/couverture.PNG'
 
 | The Viewpoints book | Anne Bogart, Tina Landau | 2005
 
+---
+
 ## Veille
 
 #### Articles
@@ -84,6 +88,7 @@ featured_image: '/images/Journal/Deuxieme-annee-de-these/couverture.PNG'
 |  |  |  |
 | [Conference Proceedings of Generative Art Conferences](http://www.artscience-ebookshop.com/)
 
+---
 
 ## Ouverture
 
@@ -115,6 +120,7 @@ featured_image: '/images/Journal/Deuxieme-annee-de-these/couverture.PNG'
 
 * [100 Notions pour l'art numérique](http://leden.org/sam/artNumerique/index.php?langue=fr)
 
+---
 
 ## Spécialisé
 
@@ -128,6 +134,8 @@ featured_image: '/images/Journal/Deuxieme-annee-de-these/couverture.PNG'
 ## Tutorials
 
 * [Touchdesigner tutorials](https://derivative.ca/tutorials)
+
+---
 
 ## Veille
 
@@ -159,6 +167,8 @@ featured_image: '/images/Journal/Deuxieme-annee-de-these/couverture.PNG'
 
 * [CODELAB - orum consacré aux pratiques expérimentales de création d'image, de vidéo, de son et de musique qui utilisent des langages de programmation (processing, chuck, supercollider, livecode, etc.), de programmation visuelle (pure-data / gem, vvvv, etc.) ou l'expérimentation électronique (construction d'interfaces et d'instruments, circuit-bending, etc.)](http://codelab.fr/177)
 
+---
+
 ## Ouverture
 
 * [Download free sound kits, loops, drum kits, samples, sound effects and more for producers](https://beatproduction.net/category/sound-kits/)
@@ -171,6 +181,8 @@ featured_image: '/images/Journal/Deuxieme-annee-de-these/couverture.PNG'
 
 
 
+---
+
 ## Spécialisé
 
 #### Hardware
@@ -181,8 +193,13 @@ featured_image: '/images/Journal/Deuxieme-annee-de-these/couverture.PNG'
 
 | [Vie Artificielle](http://www.anyflo.com/bret/cours/va/tm.htm) | Michel Bret | ATI, Paris 8 
 
+---
+
 ## Veille
 
+
+
+---
 
 ## Ouverture
 
@@ -197,14 +214,17 @@ featured_image: '/images/Journal/Deuxieme-annee-de-these/couverture.PNG'
 
 | [Le Connexionisme](http://www.anyflo.com/bret/cours/conn/tm.htm) | Michel Bret | ATI, Paris 8   
 
+---
 
 ## Spécialisé
 
 
+---
 
 ## Veille
 
 
+---
 
 ## Ouverture
 
