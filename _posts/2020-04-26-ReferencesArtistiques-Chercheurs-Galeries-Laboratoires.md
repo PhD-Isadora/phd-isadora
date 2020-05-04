@@ -43,7 +43,7 @@ Autres
 
 ---
 
-## Chercheurs
+## Chercheurs 
 
 * [Marie Hélène Tramus]()
 * [Edmond Couchot]()
@@ -84,6 +84,7 @@ Autres
 * [Studio for creative inquir at Carnegie Mellon University](https://studioforcreativeinquiry.org/about)
 * [TISCH initiative for creative research](https://tisch.nyu.edu/tisch-research-news-events/research-at-tisch)
 * [MUME - Musical metacreation](http://musicalmetacreation.org/)
+* [Les Jaseuses](https://lesjaseuses.hypotheses.org/category/evenements-scientifiques/colloques-et-journees-detude)
   
 ---
 
