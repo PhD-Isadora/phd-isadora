@@ -17,15 +17,28 @@ Digital arts inspirations
 * [Florian Berger - shaders](http://www.flockaroo.at/)
 * [Klaus Obermaier](http://www.exile.at/ko/)
 * [Kyle McDonald](http://kylemcdonald.net/)
+* [Golan Levin](http://www.flong.com/)
+* [Inigo Quilez](https://www.iquilezles.org/)
+* [Patricio Gonzales Vivo - Data landscapes, The Book of Shaders](http://patriciogonzalezvivo.com/about.php)
 
-Intelligence artificielle et spectacle vivant
 
+Intelligence artificielle
+
+* [Memo Akten](http://www.memo.tv/works/)
+* [Refik Anadol](http://refikanadol.com/)
 
 Vie artificielle
+
 * [Marpi studio](https://www.marpi.studio/artwork)
 * [Christa Sommerer et Laurent Mignonneau]()
 
-Vie artificielle et spectacle vivant
+
+
+Computational Creativity (IA + VA (...?))
+
+* [Aaron - Harold Cohen](http://www.aaronshome.com/aaron/index.html)
+* [The painting fool - Simon Colton](http://www.thepaintingfool.com/)
+
 
 Autres
 
@@ -61,7 +74,7 @@ Autres
 * [Karl Sims]()
 * [Frank Popper]()
 * [John H. Holland]()
-* [Simon Colton]()
+* [Simon Colton - Computational Creativity](http://ccg.doc.gold.ac.uk/simoncolton/)
 * [Norbert Wiener]()
 * [Simon Biggs](https://people.unisa.edu.au/simon.biggs)
 * [Daniel Shiffman]()
@@ -72,7 +85,9 @@ Autres
 * [Bruce Clarke]()
 * [Jill Scott]()
 * [Frank Popper]()
-* 
+* [Dan Ventura](http://axon.cs.byu.edu/Dan/research.php)
+* [Harold Cohen](http://www.aaronshome.com/aaron/index.html)
+* [Jen Lowe - Book of Shaders and Data Visualization at ITP NYU](http://jenlowe.net/)
 
 ---
 
@@ -81,13 +96,23 @@ Autres
 * [Université Paris 8, INREV (équipe de recherche Images numériques et Réalité Virtuelle)](http://inrev.univ-paris8.fr/)
 * [University of Southern Australia, Creative Computing Studio](https://aad.unisa.edu.au/research/research-areas/creative-computing-studio/0)
 * [University of Southern Australia, Digital Transformations research concentration](https://aad.unisa.edu.au/research/research-areas/digital-transformations/)
-* [Studio for creative inquir at Carnegie Mellon University](https://studioforcreativeinquiry.org/about)
+* [The Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University](https://studioforcreativeinquiry.org/about)
 * [TISCH initiative for creative research](https://tisch.nyu.edu/tisch-research-news-events/research-at-tisch)
 * [MUME - Musical metacreation](http://musicalmetacreation.org/)
 * [Les Jaseuses](https://lesjaseuses.hypotheses.org/category/evenements-scientifiques/colloques-et-journees-detude)
+* [Computational Creativity Research Group - Goldsmiths, University of London](http://ccg.doc.gold.ac.uk/)
+* [DeepLab - "collaborative group of cyberfeminist researchers, artists, writers, engineers, and cultural producers. Our interests are diverse, and we do not agree on everything. Some of our research includes privacy, surveillance, code, art, social hacking, race, capitalism, anonymity, the infrastructures of the 21st century and useful skills in tangible situations."](http://www.deeplab.net/aboutus)
   
 ---
 
 ## Centres et programmes de résidence, recherche et création
 
 * [CERN - Programme Arts at CERN](https://arts.cern/)
+
+---
+
+## Oeuvres et projets importants pour la recherche
+
+| Artiste | Titre | Date | Sujet |
+| ------- |: ---: | ---: |-----: | 
+|         |       |      |       |

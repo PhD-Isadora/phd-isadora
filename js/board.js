@@ -30,8 +30,9 @@
 	var docTitle = document.title;
 	var History = window.History;
 
+
 	// State change event
-	History.Adapter.bind(window,'statechange',function(){
+	History.Adapter.bind(window, 'statechange', function () {
 		var state = History.getState();
 		// console.log(state);
 
@@ -39,10 +40,10 @@
 		$('body').addClass('loading');
 
 		// Load the page
-		$('.page-loader').load( state.hash + ' .page__content', function() {
+		$('.page-loader').load(state.hash + ' .page__content', function () {
 
 			// Scroll to top
-			$( 'body, html' ).animate({
+			$('body, html').animate({
 				scrollTop: 0
 			}, 300);
 
@@ -50,7 +51,7 @@
 			var transitionTime = 400;
 
 			// After current content fades out
-			setTimeout( function() {
+			setTimeout(function () {
 
 				// Remove old content
 				$('.page .page__content').remove();
@@ -80,9 +81,9 @@
 
 	// On clicking a link
 
-	if ( $('body').hasClass('ajax-loading') ) {
+	if ($('body').hasClass('ajax-loading')) {
 
-		$(document).on('click', 'a', function (event){
+		$(document).on('click', 'a', function (event) {
 
 			// Don't follow link
 			event.preventDefault();
@@ -91,20 +92,20 @@
 			var thisTarget = $(this).attr('href');
 
 			// If we don't want to use ajax, or the link is an anchor/mailto/tel
-			if ( $(this).hasClass('js-no-ajax') || /^#/.test(thisTarget) || thisTarget.indexOf("mailto:") >= 0 || thisTarget.indexOf("tel:") >= 0 ) {
+			if ($(this).hasClass('js-no-ajax') || /^#/.test(thisTarget) || thisTarget.indexOf("mailto:") >= 0 || thisTarget.indexOf("tel:") >= 0) {
 
 				// Use the given link
 				window.location = thisTarget;
 			}
 
 			// If link is handled by some JS action – e.g. fluidbox
-			else if ( $(this).is('.gallery__item__link') ) {
-				
+			else if ($(this).is('.gallery__item__link')) {
+
 				// Let JS handle it
 			}
 
 			// If link is external
-			else if ( thisTarget.indexOf('http') >= 0 ) {
+			else if (thisTarget.indexOf('http') >= 0) {
 
 				// Go to the external link
 				window.open(thisTarget, '_blank');
@@ -116,13 +117,13 @@
 
 				// Change navTarget
 				navTarget = thisTarget;
-				
+
 				// Switch the URL via History
 				History.pushState(null, docTitle, thisTarget);
 			}
 
 		});
-		
+
 	}
 
 
@@ -135,10 +136,10 @@
 		// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Show content
 
 		// Wait until first image has loaded
-		$('.page__content').find('img:first').imagesLoaded( function() {
-	
+		$('.page__content').find('img:first').imagesLoaded(function () {
+
 			// Portfolio grid layout
-			$('.listing-wrap').imagesLoaded( function() {
+			$('.listing-wrap').imagesLoaded(function () {
 				$('.listing-wrap').masonry({
 					itemSelector: '.listing-item',
 					transitionDuration: 0
@@ -172,7 +173,7 @@
 		var galleryCount = 0;
 
 		// If there's a gallery
-		$('.gallery').each( function() {
+		$('.gallery').each(function () {
 
 			// Get gallery element
 			var $this = $(this);
@@ -189,21 +190,21 @@
 			$this.append('<div class="gallery__wrap"></div>');
 
 			// Add images to container
-			$this.children('img').each( function() {
+			$this.children('img').each(function () {
 				$(this).appendTo('#' + thisId + ' .gallery__wrap');
 			});
 
 			// Wrap images
-			$this.find('.gallery__wrap img').each( function() {
+			$this.find('.gallery__wrap img').each(function () {
 				var imageSrc = $(this).attr('src');
 				$(this).wrapAll('<div class="gallery__item"><a href="' + imageSrc + '" class="gallery__item__link"></div></div>').appendTo();
 			});
 
 			// Wait for images to load
-			$this.imagesLoaded( function() {
+			$this.imagesLoaded(function () {
 
 				// If it's a single column gallery
-				if ( galleryCols === '1' ) {
+				if (galleryCols === '1') {
 
 					// Add carousel class to gallery
 					$this.addClass('gallery--carousel');
@@ -228,20 +229,20 @@
 					// When scrolling over the bottom
 					var waypoint1 = new Waypoint({
 						element: document.getElementById(thisId),
-						handler: function(direction) {
+						handler: function (direction) {
 
-							if ( direction === 'down') {
+							if (direction === 'down') {
 
 								// console.log('pause');
-							
+
 								// Pause this carousel
 								$this.children('.gallery__wrap').trigger('stop.owl.autoplay');
 							}
 
-							if ( direction === 'up') {
+							if (direction === 'up') {
 
 								// console.log('play');
-								
+
 								// Play this carousel
 								$this.children('.gallery__wrap').trigger('play.owl.autoplay');
 							}
@@ -252,20 +253,20 @@
 					// When scrolling over the top
 					var waypoint2 = new Waypoint({
 						element: document.getElementById(thisId),
-						handler: function(direction) {
+						handler: function (direction) {
 
-							if ( direction === 'down') {
+							if (direction === 'down') {
 
 								// console.log('play');
-								
+
 								// Play this carousel
 								$this.children('.gallery__wrap').trigger('play.owl.autoplay');
 							}
 
-							if ( direction === 'up') {
+							if (direction === 'up') {
 
 								// console.log('pause');
-							
+
 								// Pause this carousel
 								$this.children('.gallery__wrap').trigger('stop.owl.autoplay');
 							}
@@ -284,7 +285,7 @@
 						itemSelector: '.gallery__item',
 						transitionDuration: 0
 					});
-							
+
 					// Init fluidbox
 					$this.find('.gallery__item__link').fluidbox({
 						loader: true
@@ -302,7 +303,7 @@
 
 		// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Images
 
-		$('.single p > img').each( function() {
+		$('.single p > img').each(function () {
 			var thisP = $(this).parent('p');
 			$(this).insertAfter(thisP);
 			$(this).wrapAll('<div class="image-wrap"></div>');
@@ -314,14 +315,14 @@
 		// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Videos
 
 		// For each iframe
-		$('.single iframe').each( function() {
+		$('.single iframe').each(function () {
 
 			// If it's YouTube or Vimeo
-			if ( $(this).attr('src').indexOf('youtube') >= 0 || $(this).attr('src').indexOf('vimeo') >= 0 ) {
+			if ($(this).attr('src').indexOf('youtube') >= 0 || $(this).attr('src').indexOf('vimeo') >= 0) {
 
 				var width = $(this).attr('width');
 				var height = $(this).attr('height');
-				var ratio = (height/width)*100;
+				var ratio = (height / width) * 100;
 
 				// Wrap in video container
 				$(this).wrapAll('<div class="video-wrap"><div class="video" style="padding-bottom:' + ratio + '%;"></div></div>');
@@ -338,10 +339,10 @@
 
 	// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Menu
 
-	$(document).on('click', '.js-menu-toggle', function (){
+	$(document).on('click', '.js-menu-toggle', function () {
 
 		// If already open
-		if ( $('body').hasClass('menu--open') ) {
+		if ($('body').hasClass('menu--open')) {
 			$('body').removeClass('menu--open');
 		}
 
@@ -351,10 +352,10 @@
 		}
 	});
 
-	$(document).on('click', '.menu__list__item__link', function (){
+	$(document).on('click', '.menu__list__item__link', function () {
 
 		// If menu is open when you click a link on mobile
-		if ( $('.menu').hasClass('menu--open') ) {
+		if ($('.menu').hasClass('menu--open')) {
 			$('.menu').removeClass('menu--open');
 		}
 	});
@@ -376,22 +377,22 @@
 		var gotchaField = $('.contact-form__gotcha');
 
 		// Validate email
-		if ( emailField.val() === '' ) {
+		if (emailField.val() === '') {
 			emailField.closest('.contact-form__item').addClass('contact-form__item--error');
 		}
 
 		// Validate name
-		if ( nameField.val() === '' ) {
+		if (nameField.val() === '') {
 			nameField.closest('.contact-form__item').addClass('contact-form__item--error');
 		}
 
 		// Validate message
-		if ( messageField.val() === '' ) {
+		if (messageField.val() === '') {
 			messageField.closest('.contact-form__item').addClass('contact-form__item--error');
 		}
 
 		// If all fields are filled, except gotcha
-		if ( emailField.val() !== '' && nameField.val() !== '' && messageField.val() !== '' && gotchaField.val().length === 0 ) {
+		if (emailField.val() !== '' && nameField.val() !== '' && messageField.val() !== '' && gotchaField.val().length === 0) {
 
 			// Submit the form!
 		}
@@ -403,7 +404,7 @@
 		}
 
 	});
-	
-	
-	
+
+
+
 }(jQuery));

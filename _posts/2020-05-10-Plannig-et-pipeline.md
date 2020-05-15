@@ -6,35 +6,17 @@ description:
 featured_image: '/images/Journal/Deuxieme-annee-de-these/couverture.PNG'
 ---
 
-O que um doutorando, que é pago para pesquisar e para criar mas não trabalha numa empresa e nem em um laboratorio de verdade, faz ?
-Relatorios ou reflexões ?
-
 ---
 
 # UPDATE DU PROJET DE RECHERCHE-CRÉATION 
 
 ## THÉMATIQUE
 
-
-## MOTS-CLÉS
-
-#### Basique
-
-
-#### Spécialisé
-
-
-#### Veille
-
-
-#### Ouverture
-  
+## MOTS-CLÉS  
 
 ## PROBLÉMATIQUES
 
-
 ## BUTS
-
 
 ## PLANNING / MÉTHODOLOGIE
 
@@ -52,6 +34,14 @@ Articles
 
 #### Sélection webographique/ressources pour le mois de mai 2020 (pratique et apprentissage)
 
+|           But            | Sujet |                                                    Cours | Chapitres/semaines | Heures par semaine |            Jours |
+| :----------------------: | ----: | -------------------------------------------------------: | -----------------: | -----------------: | ---------------: |
+| prototypage et cours ATI | Webgl | Three.js documentation + Udacity interactive 3D Graphics |         9 semaines |                 30 | lundi à vendredi |
+|                          |       |                                                          |                    |                    |                  |
+|                          |       |                                                          |                    |                    |                  |
+|                          |       |                                                          |                    |                    |                  |
+|                          |       |                                                          |                    |                    |                  |
+|                          |       |                                                          |                    |                    |                  |
 
 
 ---

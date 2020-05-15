@@ -1,0 +1,306 @@
+---
+title: 'Ressources 2020'
+date: 2020-04-26 00:00:00
+subtitle: " Sélection de ressources " 
+description: 
+featured_image: '/images/Journal/Deuxieme-annee-de-these/couverture.PNG'
+---
+
+----------
+
+# BIBLIOGRAPHIE BASIQUE
+
+## Thèses
+
+* [Chu-Yin Chen, ]()
+* [Judith Guez, ]()
+* [Processus créatifs et systèmes auto-génératifs : automatisation, auto-génération et énaction : esquisse d'une esthétique énactive par Mohsen Toumi](http://theses.fr/2016TOU20090)
+
+
+## Histoire de l'art numérique (approche générale, plusieurs réflexions)**
+
+| Art, action et participation | Frank Popper | 1980 
+| From technological to virtual art | Frank Popper | 2007
+| A Companion to Digital Art (Textes de Lev Manovich et Philip Galanter) | Christiane Paul (ed) | 2016
+
+
+## Esthétique
+
+| La nature de l'art : Ce que les sciences cognitives nous révèlent sur le plaisir esthétique | Edmond Couchot | 2012
+| Esthétique Relationnelle | Nicolas Bourriaud | 1998
+
+
+## Réflexions sur performance et arts vivants
+
+| Closer : Performance, technologies, phenomenology | Susan Kozel | 2007
+| Digital Performance | Steve Dixon | 2007
+
+
+## Réflexions sur l'environnement, espace, milieu, unwelt
+
+| Installation art | Claire Bishop | 2005
+| Transdiscourse 1 : Mediated environments | Andrea Gleiniger, Angelika Hilbeck, Jill Scott | 2011
+
+
+## Réflexions sur l'art interactive et participation
+
+| Artificial Hells : Participatory Art and the politics of spectatorship | Claire Bishop | 2012 
+| Participation | Claire Bishop | 2006
+| La relation comme forme : l'interactivité en art | Jean-Louis Boissier | 2008
+| [The Oxford  Hnadbook of Critical Improvisation Studies, Volume 2 (Chapter 20 - Improvisation and interactions, canons and rules, emergence and play by Simon Penny)](https://books.google.fr/books?id=1oTADAAAQBAJ&printsec=frontcover&hl=fr#v=onepage&q=Improvisation%20and%20Interaction%2C%20Canons%20and%20Rules%2C%20Emergence%20and%20Play&f=false) | publié par George Lewis, Benjamin Piekut | 2016 
+
+
+## Réflexions et histoire sur l'informatique
+
+| The second age of computer science : form ALGOL genes to neural nets | Subrata Dasgupta | 2018 |
+
+---
+
+# BIBLIOGRAPHIE SPECIALISEE
+
+## Vie articielle et art - approche générale
+
+| Metacreation : Art and artificial life | Mitchell Whitelaw | 2004 
+| The Art of Artificial Evolution : A Handbook on Evolutionary Art and Music | Juan Romero, Penousal Machado (eds) | 2008
+| Making sense : cognition, computing, art and embodiement | Simon Penny | 2017
+
+
+## Complexité : Sciences de la complexité, théorie des systèmes, théorie de l'information, auto-organisation
+
+| Le vivant post-génomique : ou qu'est-ce que l'auto-organisation ? | Henri Atlan | 2011  
+| On Complexity (Collection : Advances in systems theory, complexity and human sciences) | Edgar Morin | 2008
+| A Organização biologica e a teoria da informação | Henri Atlan | 2006
+| Thinking about biology : An invitation to current theoretical biology | Wildred Stein, Francisco J. Varela | 1993
+| Neocybernetics and narrative (posthumanities) | Bruce Clarke | 2014
+| Posthuman Metamorphosis : narrative and systems | Bruce Clarke | 2008
+
+
+## Évolutionnisme et émergence
+
+| Creative Evolutionary Systems | Peter J. Bentley, David W. Corne | 2002
+| Exploring Transdisciplinarity in Art and Sciences - Part IV Evolutionary Aesthetics (Julien Renoult) | Zoi Kapoula, Emmanuelle Volle, Julien Renoult, Moreno Andreatta | 2018
+| Emergence and embodiment : New essays on second-order systems theory (textes sur autopoiesis, Varela, H. Von Foerster, systems-envorinment hybrids) | Bruce Clark, Mark B. N. Hansen | 2009
+| Autopoiesis and cognition : The Realization of the Living (chapitres sur The Living System et Evolution) | Humberto R. Maturana, Francisco J. Varela | 1980 
+| L'évolution créatrice | Henri Bergson | 1907
+| The embodied mind : cognitive science and human experience | Francisco J. Varela, Evan Thompson, Eleanor Rosch | 1993
+
+
+## Artificial life techniques
+
+| The Computational Beauty of Nature : Computer explorations of fractals, chaos, complex systems and adaptation | Gary William Flake | 1999 
+| Adaptation in Natural and Artificial Systems | John H. Holland | 1992
+| Hidden Order : How adaptation builds complexity | John H. Holland | 1995
+
+
+## Viewpoints
+
+| The Viewpoints book | Anne Bogart, Tina Landau | 2005
+
+---
+
+# VEILLE SCIENTIFIQUE 
+
+## Articles
+
+| VA | Evolving Virtual Creatures | Karl Sims | 1994
+| VA | Artificial Evolution for Computer Graphics | Karl Sims | 1991
+| CG temps réel | Particle Animation and Rendering Using Data Parallel Computation | Karl Sims | 1990
+| VA | Interactive evolution of L-Systes Grammars for Computer Graphics | Jon McCormack | 1993 |
+| Interactivité | La perspective interactive (Revue d'esthétique 39) | Jean-Louis Boissier | 2001
+| VA | Creative Agency : a Clearer Goal for Artificial Life in the Arts | Oliver Bown and Jon McCormack | 2003
+| CC (IA) | Before a computer can draw, it must first learn to see | Derall Heath and Dan Ventura | 2016
+| VA and electronics | Niche constructing drawing robots | Jon McCormack | 2017
+| VA | Evolving 3D Morphology and Behaviour by Competition | Karl Sims | 1994
+| CC (VA) | How to build a CC system | Dan Ventura | 2017
+
+
+| [Conference Proceedings of Generative Art Conferences](http://www.artscience-ebookshop.com/) 
+
+---
+
+# OUVERTURE
+
+## Vie artificielle et sciences sociales
+
+| Growing Artificial Societies : Social science from the bottom up | Joshua M. Epstein, Robert Axtell | 1996
+
+## Science cognitives, Phénomenologie
+
+| Enaction : Towards a New Paradigm for Cognitive Science | Edited by John Stewart, Olivier Gapenne and Ezequiel A. Di Paolo | 2010 |
+| L'Inscription corporelle de l'esprit. Sciences cognitives et expérience humaine | Eleanor Rosch, Evan Thompson, Francisco j. Varela | 1993 |
+
+## Méthodologie
+
+| The PhD Application Handbook | Peter J. Bentley | 2006
+| Artistis in labs : processes of inquiry | Jill Scott (ed) | 2006
+
+## Technique
+
+| [Grooking Deep Learning](https://www.manning.com/books/grokking-deep-learning) | Andrew Trask | 2019 
+| [Algorithms of the Intelligent Web](https://www.manning.com/books/algorithms-of-the-intelligent-web-second-edition) | Douglas G. McIlwraith, Haralambos Marmanis, and Dmitry Babenko | 2016
+| [Grooking Algorithms](https://www.manning.com/books/grokking-algorithms) | Aditya Y. Bhargava | 2016 
+
+---
+
+# WEBOGRAPHIE BASIQUE
+
+* [100 Notions pour l'art numérique](http://leden.org/sam/artNumerique/index.php?langue=fr)
+* [The Deep Lab Lecture Series (2014) compiles four evenings of free lecture presentations given by ten leading experts on digital culture](https://vimeo.com/showcase/3167394)
+
+---
+
+# WEBOGRAPHIE SPECIALISEE 
+
+* [Edgar Morin et la compléxité - par JUIGNET Patrick](https://philosciences.com/philosophie-generale/la-philosophie-et-sa-critique/17-edgar-morin-complexite)
+* [Simon Penny video lectures](http://www.simonpenny.net/video_lectures/)
+  
+---
+
+# VEILLE SCIENTIFIQUE ET CULTURELLE
+
+## Art contemporain
+
+* [Art UK - belles oeuvres e images](https://artuk.org/)
+
+## Arts et sciences
+
+* [Chaîne Youtube Leonardo/The International Society for the Arts, Sciences and Technology (Leonardo/ISAST)](https://www.youtube.com/channel/UC1IOkf8gyg2MJwgEEdXI9fA/featured)
+* [CERN - Programme Arts at CERN news](https://arts.cern/news)
+
+## Art numérique et art génératif
+
+* [Conference Proceedings of Generative Art Conferences](http://www.artscience-ebookshop.com/)
+* [GENERATIVE ART 2019](http://www.artscience-ebookshop.com/GA2019_book.htm)
+* [DEVART par Google developpers](https://devart.withgoogle.com/fr#/about/commissioned-artists)
+* [TOPLAB - explore and promote live coding](https://toplap.org/)
+
+## Arts vivants et technologie
+
+* [Arts vivants - Counterpulse](http://www.counterpulse.org/)
+
+## VR, AR, XR
+
+* [Doc-ok blog about immersive 3D computer graphics](http://doc-ok.org/)
+
+## Forums
+
+* [CODELAB - Forum consacré aux pratiques expérimentales de création d'image, de vidéo, de son et de musique qui utilisent des langages de programmation (processing, chuck, supercollider, livecode, etc.), de programmation visuelle (pure-data / gem, vvvv, etc.) ou l'expérimentation électronique (construction d'interfaces et d'instruments, circuit-bending, etc.)](http://codelab.fr/177)
+
+---
+
+# OUVERTURE
+
+* [Download free sound kits, loops, drum kits, samples, sound effects and more for producers](https://beatproduction.net/category/sound-kits/)
+
+---
+
+# COURS TECHNIQUES
+
+## IA / Machine Learning for artists
+
+* [CODING TRAIN - Intelligence and Learning](https://www.youtube.com/watch?v=sPEEV8Xih20&list=PLRqwX-V7Uu6YJ3XfHhT2Mm4Y5I99nrIKX)
+* [CODING TRAIN - Introduction to Runway: Machine Learning for Creators](https://www.youtube.com/watch?v=ARnf4ilr9Hc&list=PLRqwX-V7Uu6aBhR9QrBIsyybrnK7MCcYU)
+
+## Graphisme sur web
+
+* [Three.js documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
+* [Interactive 3D Graphics](https://classroom.udacity.com/courses/cs291)
+* [CODING TRAIN - WebGL in P5.js](https://thecodingtrain.com/Tutorials/18-webgl/)
+
+## Algorithms
+
+* [Introduction to computer science and programming using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/course)
+
+## Interesting gihub repos
+
+* [Andreas Muller - Noise Workshop Resonate 2015](https://github.com/andreasmuller/NoiseWorkshop)
+* [Andreas Muller - RaspberryPi Workshop](https://github.com/andreasmuller/RaspberryPiWorkshop)
+* [Andreas Muller - Digital Dance Workshop Resonate 2016](https://github.com/andreasmuller/DigitalDanceWorkshop)
+* [PMNelia - Gray-Scott simulations](https://github.com/pmneila/jsexp)
+
+## Tutorials Touchdesigner
+
+* [Touchdesigner tutorials - Derivative](https://derivative.ca/tutorials)
+* [Interactive & immersive tutorials blog (HQ)](https://interactiveimmersive.io/blog/)
+* [Compositional and Computational Principles for Media Arts](https://matthewragan.com/teaching-resources/touchdesigner/ame-394-compositional-and-computational-principles-for-media-arts/)
+* [Generative Media for Live Performance](https://matthewragan.com/teaching-resources/touchdesigner/thp-494-598-generative-media-for-live-performance/)
+* [TD Summit 2019 : Modular Architectures](https://matthewragan.com/2019/09/02/touchdesigner-td-summit-2019-modular-architectures/)
+* [TD Summit 2019 : External Python Libraries](https://matthewragan.com/2019/09/04/touchdesigner-td-summit-2019-external-python-libraries/)
+* [GitHub and External Toxes](https://matthewragan.com/2019/08/24/touchdesigner-github-and-external-toxes/)
+* [Python in TouchDesigner](https://matthewragan.com/teaching-resources/touchdesigner/python-in-touchdesigner/)
+
+## Tutorials Unity and C#
+
+* [C# and Shader Tutorials for the Unity Engine by Catlike coding](https://catlikecoding.com/unity/tutorials/)
+  
+## Cours payants (touchdesigner)
+
+* [Turn on god mode in touchdesigner with GLSL Shaders](https://learntouchdesigner.com/workshops/glsl-intro.html)
+* [From zero to hero : Python for touchdesigner](https://learntouchdesigner.com/workshops/complete-python.html)
+* [Physic fundamentals : use physics like a pro in touchdesigner (bullet lib)](https://learntouchdesigner.com/workshops/physics.html)
+* [God mode in 3D : GLSL for 3D touchdesigner installations](https://learntouchdesigner.com/workshops/god-mode-2.html)
+* [Machine Learning for touchdesigner](https://learntouchdesigner.com/workshops/ml-for-td.html)
+
+## Acquisition, communication et utilisation de données dans une page web
+
+* [CODING TRAIN - Web sockets with P5.js](https://thecodingtrain.com/Tutorials/12-websockets/)
+* [CODING TRAIN - Working with data](https://thecodingtrain.com/Tutorials/10-working-with-data/)
+
+
+## Shaders
+
+* [The Book of Shaders](https://thebookofshaders.com/?lan=en)
+* [GLSL 2D tutorials on shadertoy](https://www.shadertoy.com/view/Md23DV)
+* [Shader school sur GIthub](https://github.com/stackgl/shader-school)
+
+
+## Hardware
+
+* [Adafruit learn](https://learn.adafruit.com/)
+
+
+## Algorithmes pour techniques graphiques
+
+* [CODING TRAIN - Coding in the Cabana 2: Collatz Conjecture](https://www.youtube.com/watch?v=EYLWxwo1Ed8&list=PLRqwX-V7Uu6bVafiIHN-8LR3MUFDboJdU&index=4)
+* [Complexity Explorer - Tutorial : Vector Matrix and Algebra (last chapter about Markov Chains)](https://www.complexityexplorer.org/courses/56-vector-and-matrix-algebra/segments/4192?summary)
+
+
+## Sciences de la compléxité et systèmes génératifs
+
+### Algorithmes pour la représentation de la complexité
+
+* [Complexity explorer - Course : Introduction to Agent-Based Modeling](https://www.complexityexplorer.org/courses/101-introduction-to-agent-based-modeling/segments/9191?summary)
+* [Complexity Explorer - Course : Introduction to agent-based modeling](https://www.complexityexplorer.org/courses/101-introduction-to-agent-based-modeling/segments/9191?summary)
+
+### Fractals
+
+* [Complexity explorer - Tutorial : Functions and iterations](https://www.complexityexplorer.org/courses/30-functions-and-iterations/segments/3353?summary)
+*  [Complexity explorer - Course : Introduction to Dynamical Systemes and Chaos](https://www.complexityexplorer.org/courses/105-introduction-to-dynamical-systems-and-chaos)
+
+
+### Vie artificielle
+
+* [Vie Artificielle par Michel Bret](http://www.anyflo.com/bret/cours/va/tm.htm)
+
+---
+
+## Ouverture
+
+* [Latex](https://openclassrooms.com/fr/courses/1617396-redigez-des-documents-de-qualite-avec-latex/1617565-quest-ce-que-latex)
+* [Financial planning for creative careers](https://www.kadenze.com/courses/financial-planning-for-creative-careers/info)
+* [Complexity Explorer - Tutorial : Introduction to renormalization](https://www.complexityexplorer.org/courses/67-introduction-to-renormalization/segments/5407?summary)
+
+---
+
+# COURS THEORIQUES
+
+## Sciences de la complexité et vie artificielle
+
+* [Michel Bret - Le Connexionisme](http://www.anyflo.com/bret/cours/conn/tm.htm)  
+* [Complexity Explorer - Course : Introduction to complexity](https://www.complexityexplorer.org/courses/104-introduction-to-complexity/segments/9721)
+
+---
+
+## Ouverture
+
+* [Complexity Explorer - Course : Origins of Life](https://www.complexityexplorer.org/courses/103-origins-of-life)

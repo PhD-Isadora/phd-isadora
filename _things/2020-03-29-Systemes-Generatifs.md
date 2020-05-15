@@ -12,27 +12,27 @@ featured_image: '/images/things/SystemesGeneratifs/2.png'
 ---
 
 # Slides des séances
-##### **Séance 1 - 25/02/2019 : Définition de l'art génératif**
+**Séance 1 - 25/02/2019 : Définition de l'art génératif**
 - [Définitions de l'art génératif](https://docs.google.com/presentation/d/e/2PACX-1vRqajQXPA0ekzmoiNA_NKzdnhxRw3rzhwn162-NtgaoiIB1fK9hDWC0_wyLqgqNyeW4rYK00nnV-eTo/pub?start=false&loop=false&delayms=30000)
 
-##### **Séance 2 - 18/03/2019 : Typologie et approche historique de l'art génératif; L'aléatoire et le bruit**
+**Séance 2 - 18/03/2019 : Typologie et approche historique de l'art génératif; L'aléatoire et le bruit**
 - [Partie 1 : TYPOLOGIE](https://docs.google.com/presentation/d/e/2PACX-1vRiHOVtbYJk4S41OA4TOFHlkeVPUnq6cwQm8OBdYRjFjAkI3VqJpGqNDjyJ4o_4UfVVD9UCavsSjHVv/pub?start=false&loop=false&delayms=3000)
 - [Partie 2 : APPROCHE HISTORIQUE](https://docs.google.com/presentation/d/e/2PACX-1vThftTgvO2LJorPCjyeevs1Cq6tewXP_iixTnCC4rR0gB0Y0c1aWXrQ-5myifPp7mY47mAOR_sBvSCW/pub?start=false&loop=false&delayms=3000)
 - [Partie 3 : L'ALEATOIRE ET LE BRUIT](https://docs.google.com/presentation/d/e/2PACX-1vT21nwFVmhOYJrq05q-x8G1Cuxs2MNlZoAZAMcUWVWiP6-TcRgXtCGcM8uXwYyOIjAHQwO_MZLmN8r6/pub?start=false&loop=false&delayms=3000)
   
-##### **Séance 3 - 28/03/2019 : Théorie du chaos et les fractals; Systèmes basés sur des règles et grammaires; L-systèmes; Chaînes de Markov et systèmes de substitution**
+**Séance 3 - 28/03/2019 : Théorie du chaos et les fractals; Systèmes basés sur des règles et grammaires; L-systèmes; Chaînes de Markov et systèmes de substitution**
 - [Partie 1 : Résumé et exemples : L'aléatoire et le bruit](https://docs.google.com/presentation/d/e/2PACX-1vSs6SR2mT4R-1TlGAsDbChJBKVg39jI4ZjqDHeDX60DDpb0MoDqcUzfsz43cXY3HknRZ_M1TpIHOjuS/pub?start=false&loop=false&delayms=30000)
 - [Partie 2 : LA THEORIE DU CHAOS ET LES FRACTALES](https://docs.google.com/presentation/d/e/2PACX-1vTbtiMYJKczwUFCvFkByb1EiH2-aIjvJteN5JlDnmvSpB8MieUYZ_LivQ4cmPDgzVYW9934fnPja-pZ/pub?start=false&loop=false&delayms=3000)
 - [Partie 3 : CONCLUSION ET TYPES D'ATTRACTEURS](https://docs.google.com/presentation/d/e/2PACX-1vR1OOA8MSaDNmm7vTQLku0-5Tv8WKDyoRNnpynQjQS08fkZNp7yOz7PBDq-ULtl_iAWi2QmRs01T0Q0/pub?start=false&loop=false&delayms=3000)
 - [Partie 4 : GRAMMAIRES, L-SYSTEMES ET CHAINES DE MARKOV](https://docs.google.com/presentation/d/e/2PACX-1vTBtFjeLiz9xo8hfOM8ljrQJUDVWAUVnER7PCsqhgRCC-xf4R3duDWKFilFd8Dt6cMYcF_le253hxWX/pub?start=false&loop=false&delayms=3000)
 
-##### **Séance 4 - 01/04/2019 : Chaînes de Markov; Agents artificiels et systèmes multi-agents; A-Life et Cellular Automata**
+**Séance 4 - 01/04/2019 : Chaînes de Markov; Agents artificiels et systèmes multi-agents; A-Life et Cellular Automata**
 - PARTIE 1 - REVISION CHAINES DE MARKOV ET N-GRAMS (diaporama de la partie 4 du cours précèdent)
 - [PARTIE 2 - AGENTS COGNITIFS ET SYSTEMES MULTI AGENTS](https://docs.google.com/presentation/d/e/2PACX-1vQJwB9nqMeuazfCDj9xALhbCSCXJEL7dyMQUc9WMufMY3plgiUE2aJV4ONjFZtdaC5dwGbXL7J7jHBp/pub?start=false&loop=false&delayms=3000)
 - [PARTIE 3 - AGENTS REACTIFS ET SYSTEMES MULTI AGENTS](https://docs.google.com/presentation/d/e/2PACX-1vQrGGUqNaJc13Kvee-5vLAGMGyfDL0u4HK_4zRRWKlb7ntdh79i2P9IKcLCvhQLN1Ib-o4j05HM1dDn/pub?start=false&loop=false&delayms=3000)
 - [PARTIE 4 - INTRODUCTION A LA VIE ARTIFICIELLE](https://docs.google.com/presentation/d/e/2PACX-1vSf4bDW-ChyY-wRdY_Pt1eX30a4yEk4DB4BFCMrMaeJ-amZmFDIhO-37Ccd3q6mvP52crv8lYJpTXgr/pub?start=false&loop=false&delayms=3000)
 
-##### **Séance 5 - 08/04/2019 : Présentation des projets**
+**Séance 5 - 08/04/2019 : Présentation des projets**
 - Présentations des projets de création
 
 ---
