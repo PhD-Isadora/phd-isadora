@@ -1,13 +1,13 @@
 ---
 title: Isadora 
 subtitle: 'Artist and PhD student, based in Paris'
-description: 'Artist and PhD student, based in Paris'
+description: 
 featured_image: /images/about.png
 ---
 
 ![](/images/about_petit.png)
 
-### Bio
+## **Bio**
 
 Isadora est une jeune artiste brésilienne basée à Paris. Elle est actuellement doctorante contractuelle en Images Numériques au sein de l'équipe de recherche INREV, à l'université Paris 8.
 
@@ -15,10 +15,28 @@ Sa pratique et sa recherche se basent sur des expérimentations, à l’aide des
 
 ---
 
+## **Formation**
 
-### **Recherche-création**
+**2020**
 
-#### ***Le système virtuel génératif à l'épreuve de son environnement : du conflit à la coévolution, vers la co-création d'une oeuvres émergente***
+
+**2019**
+
+
+**2018**
+
+---
+
+## **Créations artistiques**
+
+
+---
+
+## **Recherche-création**
+
+### Projet de recherche-création
+
+Intitulé de la thèse : ***Le système virtuel génératif à l'épreuve de son environnement : du conflit à la coévolution, vers la co-création d'une oeuvres émergente***
 
 - **Thèse dirigé par Chu-Yin Chen**
 - **Année de début de la thèse** : 2018
@@ -33,11 +51,50 @@ Fondé sur des algorithmes évolutionnistes empruntés au domaine de la vie arti
 - [Equipe Images Numériques et Réalité Virtuelle](https://inrev.univ-paris8.fr/)
 - [Université Paris 8](https://www.univ-paris8.fr/)
 
-### Séminaires
+---
 
-- TELES DE CASTRO E COSTA Isadora, *Les Vies Artificielles, "*Le paysage numérique immersif comme forme émergente de la complexité", Centre de Veille et Innovation de CréaTIC, Paris, 2018.
+### Publications
 
-### Expositions
+#### Revues
+
+**Articles scientifiques dans les revues nationales (avec comité de lecture)**
+
+- (revue INREV n6), 2018
+
+#### Actes de conférences
+
+**Articles scientifiques dans les actes de conférence internationales (avec comité de lecture)**
+
+- Colloque "Créons au musée" 2019
+- Colloque "Écologies", 2020
+
+---
+
+### Activité de recherche-création
+
+#### Indices de reconnaissance
+
+**Résidences artistiques**
+
+- 2017 - Résidence artistique à la Gaîté Lyrique pour la réalisation de l’œuvre *Gardien de Souvenirs*, en co-création avec Anômes. Paris, France
+- 2016 - Résidence artistique à la MAC+ / Maison des Arts de Créteil pour la réalisation de l’installation *Contes Électroniques*
+- 2015 - Résidence artistique au centre d’arts « Le Chêne » pour la réalisation d’installations et de l’exposition “Ne Me Touches Pas”, avec le collectif Pirama Collective (projet subventionnée par la FSDIE de l’université Paris 8). Villejuif, France
+
+**Bourses**
+
+- Contrat doctoral EDESTA, 2018
+
+#### Produits destinés au grand public
+
+**Produits de médiation scientifique ou culturelle**
+
+- Organisation d'exposition au Chêne, 2015
+
+**Créations artistiques théorisées**
+
+- 
+
+**Expositions**
 
 - 2018 - « Fabrique Numérique » Festival Les Bains Numériques, avec l’installation interactive en réalité virtuelle *Aliaj Angélus II*, en co-création avec Alexandre Gomez. Enghien-les-Bains, France
 - 2018 - « Gif Jam » Folie Numérique au Parc de la Villette, avec l’installation interactive *Garbage Garden*, en co-création avec Alexandre Gomez, Coline Lubrina et Elea Richeux. Paris, France
@@ -47,21 +104,19 @@ Fondé sur des algorithmes évolutionnistes empruntés au domaine de la vie arti
 - 2016 - Scénographie pour « Scarifications Tour » d’Abd al Malik, en collaboration avec Romain Cieutat. France
 - 2016 - MAC+, Festival EXIT, avec l’installation interactive Contes Électroniques, en co-création avec Andréa Fernandez, Alexandre Gomez, Coline Lubrina et Elea Richeux. Créteil, France
 - 2016 - Série de Zines *Le Bâtiment Rond* avec le collectif Pirama Collective (subventionnée par la FSDIE de l’université Paris 8 et distribuées dans le cadre du colloque Poetics of Politics à Linz, Autriche)
-- 2015 - Vidéo-clip *Daniel Darc* d’Abd al Malik, en co-création avec Romain Cieutat. France
 
-### Résidences artistiques
+### Communication scientifique
 
-- 2017 - Résidence artistique à la Gaîté Lyrique pour la réalisation de l’œuvre *Gardien de Souvenirs*, en co-création avec Anômes. Paris, France
-- 2016 - Résidence artistique à la MAC+ / Maison des Arts de Créteil pour la réalisation de l’installation *Contes Électroniques*
-- 2015 - Résidence artistique au centre d’arts « Le Chêne » pour la réalisation d’installations et de l’exposition “Ne Me Touches Pas”, avec le collectif Pirama Collective (projet subventionnée par la FSDIE de l’université Paris 8). Villejuif, France
+- Colloque international Créons au musée
+- TELES DE CASTRO E COSTA Isadora, *Les Vies Artificielles, "*Le paysage numérique immersif comme forme émergente de la complexité", Centre de Veille et Innovation de CréaTIC, Paris, 2018.
 
-## Liens
+## **Réseaux sociaux**
 
 - [Tumblr](http://isadorateles.tumblr.com/)
 - [Instagram](https://www.instagram.com/isadoratelesdecastro/)
 - [LinkedIn](https://www.linkedin.com/in/isadorateles/)
 - [Vimeo](https://vimeo.com/isadorateles)
 
-## Contact
+## **Contact**
 
 - email : isadoratelesdecastro@gmail.com

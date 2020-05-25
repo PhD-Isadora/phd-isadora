@@ -1,8 +1,8 @@
 ---
-title: 'Séminaires'
+title: 'Notes sur des évènements scientifiques 2019-2020'
 date: 2020-04-14 00:00:00
-subtitle: ...
-description: ...
+subtitle: 
+description: 
 featured_image: '/images/Journal/Activites-labo/couverture.png'
 ---
 
