@@ -1,5 +1,5 @@
 ---
-title: 'Plan de rédaction de la thèse'
+title: 'Plan de rédaction de la thèse - V1'
 date: 2020-04-26 00:00:00
 subtitle: " Plan de recherche-création et d'articles (?) " 
 description: 

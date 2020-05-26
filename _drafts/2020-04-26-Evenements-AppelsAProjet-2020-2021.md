@@ -1,5 +1,5 @@
 ---
-title: 'Événements et appels a projet 2020'
+title: 'Événements et appels a projet 2020-2021'
 date: 2020-04-26 00:00:00
 subtitle:  
 description: 
