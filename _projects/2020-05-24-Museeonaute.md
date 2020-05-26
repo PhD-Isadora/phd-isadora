@@ -1,12 +1,16 @@
 ---
 title: 'Le Muséeonaute'
 subtitle: 'Projet "Créons au Musée" - Costume éléctronique et performance au Grand Palais (2019)'
-date: 2020-03-31 00:00:00
-description: 
+date: 2020-05-24 00:00:00
+description: "Présenté au Grand Palais dans l'exposition La Lune : du voyage réel aux voyoages imaginaires"
 featured_image: '/images/02MUSEEONAUTE/couverture.jpg'
 ---
 
 ![](/images/02MUSEEONAUTE/couverture.jpg)
+
+## Auteurs
+- Isadora Teles de Castro
+- Alexandre Gomez
 
 ## Pré-production
 <div class="gallery" data-columns="4">

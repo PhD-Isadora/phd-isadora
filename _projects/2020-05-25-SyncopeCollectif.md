@@ -1,12 +1,16 @@
 ---
 title: 'Syncope Collectif'
 subtitle: 'Dessins, animations et autres projets avec la compagnie de théâtre Syncope Collectif (2019/2020)'
-date: 2020-03-31 00:00:00
+date: 2020-05-25 00:00:00
 description: 
 featured_image: '/images/01LVP/couverture.jpg'
 ---
 
 ![](/images/01LVP/couverture.jpg)
+
+## Auteurs
+- Isadora Teles de Castro
+- Syncope Collectif
 
 
 <div class="gallery" data-columns="5">
