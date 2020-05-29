@@ -8,11 +8,15 @@ featured_image: '/images/02MUSEEONAUTE/couverture.jpg'
 
 ![](/images/02MUSEEONAUTE/couverture.jpg)
 
+## Description du projet
+
 ## Auteurs
 - Isadora Teles de Castro
 - Alexandre Gomez
 
-## Pré-production
+## La pré-production
+
+### Images de la pré-production
 <div class="gallery" data-columns="4">
 	<img src="/images/02MUSEEONAUTE/galerie01/01.jpg">
 	<img src="/images/02MUSEEONAUTE/galerie01/02.png">
@@ -32,7 +36,9 @@ featured_image: '/images/02MUSEEONAUTE/couverture.jpg'
 	<img src="/images/02MUSEEONAUTE/galerie01/16.jpg">
 </div>
 
-## Prototypes
+## Prototypage
+
+### Images des prototypes
 <div class="gallery" data-columns="4">
 	<img src="/images/02MUSEEONAUTE/galerie02/01.gif">
 	<img src="/images/02MUSEEONAUTE/galerie02/02.gif">
