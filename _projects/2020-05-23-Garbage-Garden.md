@@ -3,10 +3,10 @@ title: 'Garbage Garden'
 subtitle: 'Installation interactive presentée à la Folie Numérique, La Villette (2018)'
 date: 2018-05-14 00:00:00
 description: 
-featured_image: '/images/03GarbageGarden/couverture.png'
+featured_image: '/images/03GarbageGarden/couverture.PNG'
 ---
 
-![](/images/03GarbageGarden/couverture.jpg)
+![](/images/03GarbageGarden/couverture.PNG)
 
 ## Auteurs
 - Isadora Teles de Castro
