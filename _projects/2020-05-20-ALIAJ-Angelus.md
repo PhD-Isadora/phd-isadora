@@ -1,0 +1,38 @@
+---
+title: 'Aliaj Angélus'
+subtitle: 'Paysage génératif, interactif et évolutif (2017)'
+date: 2020-05-20 00:00:00
+description: "Présenté à la Fabrique Numérique dans le cadre du festival Les Bains Numérique"
+featured_image: '/images/04AliajII/couverture.PNG'
+---
+
+![](/images/04AliajII/couverture.PNG)
+
+## Description du projet
+
+## Auteurs
+- Isadora Teles de Castro
+- Alexandre Gomez
+
+## Pré-production
+
+
+## La génération des plantes
+
+### Quelques images des plantes générées
+<div class="gallery" data-columns="6">
+	
+</div>
+
+<div class="gallery" data-columns="3">
+	
+</div>
+
+## L'interactivité
+
+## Résultats
+
+### Images des résultats
+<div class="gallery" data-columns="4">
+	
+</div>
