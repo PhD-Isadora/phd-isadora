@@ -39,8 +39,10 @@ Pistes :
 ## Questions artistiques (philosophiques et plastiques)
 
 1. **Pourquoi ces notions sont-elles si importantes pour moi, pour ma recherche et pour ma création ?**
-* Adaptation
-* Évolution
+
+Adaptation
+Évolution
 * Conflit (ou résistance ?)
 
-2. **Pourquoi mes références de chercheurs et d'artistes sont majoritairement des hommes ? Pourquoi il y a-t-il si peu de femmes parmi mes références ?**
+
+1. **Pourquoi mes références de chercheurs et d'artistes sont majoritairement des hommes ? Pourquoi il y a-t-il si peu de femmes parmi mes références ?**
