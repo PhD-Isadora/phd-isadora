@@ -8,6 +8,12 @@ featured_image: '/images/03GarbageGarden/couverture.png'
 
 ![](/images/03GarbageGarden/couverture.jpg)
 
+## Auteurs
+- Isadora Teles de Castro
+- Alexandre Gomez
+- Elea Richeux
+- Coline Lubrina
+
 ## Pré-production
 <div class="gallery" data-columns="3">
 	
