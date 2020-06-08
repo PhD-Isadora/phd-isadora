@@ -1,8 +1,8 @@
 ---
 title: 'Garbage Garden'
-subtitle: 'Installation interactive presentée à la Folie Numérique, La Villette (2018)'
-date: 2018-05-14 00:00:00
-description: 
+subtitle: 'Installation interactive (2018)'
+date: 2018-05-23 00:00:00
+description: "Réalisé avec Alexandre Gomez, Coline Lubrina et Elea Richeux - Presentée à la Folie Numérique, La Villette "
 featured_image: '/images/03GarbageGarden/couverture.PNG'
 ---
 

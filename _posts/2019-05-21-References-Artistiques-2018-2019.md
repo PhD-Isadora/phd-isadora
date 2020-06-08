@@ -1,5 +1,5 @@
 ---
-title: 'Références artistiques et scientifiques 2018-20190'
+title: 'Références artistiques et scientifiques 2018-2019'
 date: 2019-04-26 00:00:00
 subtitle: "Sélection de références" 
 description: 

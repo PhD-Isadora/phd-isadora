@@ -33,7 +33,7 @@ featured_image: '/images/Journal/Activites-labo/couverture.png'
 **La perception de l'exposition par le performeur**
 
 - L'action et la présence dans l'exposition
-- L'écologie : les interactions et leurs consequences
+- L'écologie : les interactions et leurs conséquences
 
 ### Conclusion
 - Bilan de l'expérience en lien avec autres performances et le projet "Créons au Musée"

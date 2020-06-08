@@ -1,8 +1,8 @@
 ---
 title: 'Aliaj Angélus'
 subtitle: 'Paysage génératif, interactif et évolutif (2017)'
-date: 2020-05-20 00:00:00
-description: "Présenté à la Fabrique Numérique dans le cadre du festival Les Bains Numérique"
+date: 2017-05-20 00:00:00
+description: "Réalisé avec Alexandre Gomez - Présenté à la Fabrique Numérique dans le cadre du festival Les Bains Numérique"
 featured_image: '/images/08AliajAngelus/couverture.jpg'
 ---
 
