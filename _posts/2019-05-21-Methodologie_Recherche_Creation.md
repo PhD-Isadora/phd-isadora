@@ -1,9 +1,9 @@
 ---
-title: 'Sur la methodologie de recherche-création'
+title: 'Méthodologie de recherche-création'
 date: 2020-04-14 00:00:00
 subtitle: ...
 description: ...
-featured_image: '/images/Journal/Activites-labo/couverture.png'
+featured_image: '/images/Journal/Methodologie/couverture.png'
 ---
 
 # Fiche de lecture - Practice-Based Research in the Creative Arts : Foundations and Futures from the Front Line (de Linda Candy et Ernest Edmonds)

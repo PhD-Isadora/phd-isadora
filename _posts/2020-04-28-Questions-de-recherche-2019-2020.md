@@ -1,9 +1,9 @@
 ---
-title: 'Questions de recherche-création 2019-2020'
+title: 'Questions et problématiques'
 date: 2020-04-14 00:00:00
 subtitle: Problématiques émergentes de la première année de thèse
 description: 
-featured_image: '/images/Journal/Activites-labo/couverture.png'
+featured_image: '/images/Journal/Questions/couverture.png'
 ---
 
 ## Questions théoriques

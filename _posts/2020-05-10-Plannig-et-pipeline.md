@@ -1,9 +1,9 @@
 ---
-title: 'Nouveaux buts, planning et pipeline de recherche'
+title: 'UPDATE Recherche-création'
 date: 2020-04-26 00:00:00
 subtitle: 
 description: 
-featured_image: '/images/Journal/Deuxieme-annee-de-these/couverture.PNG'
+featured_image: '/images/Journal/Pipeline-numerique/couverture.PNG'
 ---
 
 ---

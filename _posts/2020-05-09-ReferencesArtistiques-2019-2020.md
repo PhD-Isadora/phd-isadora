@@ -1,9 +1,9 @@
 ---
-title: 'Références artistiques et scientifiques 2019-2020'
+title: 'Références artistiques et scientifiques'
 date: 2020-04-26 00:00:00
 subtitle: "Sélection de références" 
 description: 
-featured_image: '/images/Journal/Deuxieme-annee-de-these/couverture.PNG'
+featured_image: '/images/Journal/References/couverture.PNG'
 ---
 
 ## Studios et Artistes

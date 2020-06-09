@@ -1,9 +1,9 @@
 ---
-title: 'Une pipeline de création numérique pour les arts vivants en recherche-création ??'
+title: 'Pipeline de création numérique pour les arts vivants en recherche-création'
 date: 2020-04-14 00:00:00
 subtitle: ...
 description: ...
-featured_image: '/images/Journal/Activites-labo/couverture.png'
+featured_image: '/images/Journal/Pipeline/couverture.png'
 ---
 
 ## Pourquoi une pipeline de création pour les arts-vivants dans un contexte où les artistes impliqués sont aussi des chercheurs ?

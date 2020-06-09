@@ -1,9 +1,9 @@
 ---
-title: 'Événements et appels a projet 2020-2021'
+title: 'Événements et appels a projet'
 date: 2020-04-26 00:00:00
 subtitle:  
 description: 
-featured_image: '/images/Journal/Deuxieme-annee-de-these/couverture.PNG'
+featured_image: '/images/Journal/Evenements/couverture.PNG'
 ---
 
 ## Appels a projet
