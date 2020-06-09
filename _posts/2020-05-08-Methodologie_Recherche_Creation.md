@@ -1,8 +1,8 @@
 ---
 title: 'Méthodologie de recherche-création'
-date: 2020-04-14 00:00:00
-subtitle: ...
-description: ...
+date: 2020-05-08 00:00:00
+subtitle: "Recherche-création sous un point de vue méthodologique"
+description: "Inspirations et idées pour comprendre, documenter, analyser et pratiquer la recherche-création dans les arts"
 featured_image: '/images/Journal/Methodologie/couverture.png'
 ---
 

@@ -3,7 +3,7 @@ title: 'Systèmes Génératifs et le physical computing - Pratique'
 subtitle: "En préparation"
 date: 2020-03-31 00:00:00
 description: 
-featured_image: ''
+featured_image: '/images/things/SystemesGeneratifsPratique/couverture.png'
 ---
 
 # Mots-clés

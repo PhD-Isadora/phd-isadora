@@ -1,8 +1,8 @@
 ---
 title: 'Événements et appels a projet'
 date: 2020-04-26 00:00:00
-subtitle:  
-description: 
+subtitle: "Liste d'événements où inclure les résultats de la recherche-création"
+description: "Sélection d'événements et appels à projet pour la communication scientifique et culturelle de la recherche-création"
 featured_image: '/images/Journal/Evenements/couverture.PNG'
 ---
 

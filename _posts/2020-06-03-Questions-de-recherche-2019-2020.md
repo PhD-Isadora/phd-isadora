@@ -1,8 +1,8 @@
 ---
-title: 'Questions et problématiques'
-date: 2020-04-14 00:00:00
-subtitle: Problématiques émergentes de la première année de thèse
-description: 
+title: 'Questions problématisées et comment les résoudre'
+date: 2020-06-03 00:00:00
+subtitle: "Problématiques originaires de la pratique et de la théorie à être explorées par la recherche"
+description: "Idées sur comment investiguer des solutions pour des problèmes de ma pratique artistique et de l'état de l'art du domaine de cette recherche-création"
 featured_image: '/images/Journal/Questions/couverture.png'
 ---
 

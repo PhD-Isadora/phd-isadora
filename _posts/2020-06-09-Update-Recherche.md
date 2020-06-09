@@ -1,8 +1,8 @@
 ---
 title: 'UPDATE Recherche-création'
-date: 2020-04-26 00:00:00
-subtitle: 
-description: 
+date: 2020-06-09 00:00:00
+subtitle: "Pour le futur de cette recherche-création"
+description: "Prochaines étapes, nouveaux buts, mise à jour du travail théorique et pratique"
 featured_image: '/images/Journal/Pipeline-numerique/couverture.PNG'
 ---
 
