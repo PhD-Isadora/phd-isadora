@@ -50,6 +50,8 @@ featured_image: '/images/000EXPERIMENTATIONS/3.png'
 
 ## Expérimentations pour le mémoire de M2 avec Openframeworks
 
+Quelques expérimentations pour découvrir des manières de génération de dessins de plantes, de paysage virtuel, d'interaction avec ces dessins et d'évolution du paysage avec une végétation générée en temps réel
+
 <div class="gallery" data-columns="5">
 	<img src="/images/000EXPERIMENTATIONS/galerie03/01.gif">
     <img src="/images/000EXPERIMENTATIONS/galerie03/02.gif">
@@ -83,4 +85,47 @@ featured_image: '/images/000EXPERIMENTATIONS/3.png'
     <img src="/images/000EXPERIMENTATIONS/galerie03/59.gif">
     <img src="/images/000EXPERIMENTATIONS/galerie03/60.gif">
     <img src="/images/000EXPERIMENTATIONS/galerie03/61.gif">
+</div>
+
+<div class="gallery" data-columns="5">
+	<img src="/images/000EXPERIMENTATIONS/galerie04/(1).jpg">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(2).jpg">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(3).jpg">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(1).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(2).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(3).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(4).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(5).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(6).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(7).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(8).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(9).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(10).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(11).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(12).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(13).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(14).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(15).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(16).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(17).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(18).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(19).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(20).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(21).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(22).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(23).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(24).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(25).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(26).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(27).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(28).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(29).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(30).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(31).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(32).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(33).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(34).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(35).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(36).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie04/(37).png">
 </div>
