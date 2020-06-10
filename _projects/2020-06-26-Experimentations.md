@@ -1,12 +1,18 @@
 ---
-title: 'Expérimentations'
-subtitle: 'Dessins, images, vidéos réalisés avec un but expérimental ou spontané'
+title: "Patchwork d'expérimentations"
+subtitle: "Dessins, images, vidéos agglomérées dans l'essai de les comprendre"
 date: 2020-05-26 00:00:00
 description: 
 featured_image: '/images/000EXPERIMENTATIONS/3.png'
 ---
 
-## Expérimentations de simulation de fluides et voxels
+---
+
+# Image de synthèse
+
+### Expérimentations de simulation de fluides et voxels
+
+Images et animations réalisées dans une recherche esthétique pour le projet "Artifact"
 
 <div class="gallery" data-columns="5">
 	<img src="/images/000EXPERIMENTATIONS/galerie01/01.gif">
@@ -27,7 +33,7 @@ featured_image: '/images/000EXPERIMENTATIONS/3.png'
     <img src="/images/000EXPERIMENTATIONS/galerie01/17.png">
 </div>
 
-## Expérimentations initiales de dessin sur Processing
+### Expérimentations initiales de dessin sur Processing
 
 <div class="gallery" data-columns="5">
 	<img src="/images/000EXPERIMENTATIONS/galerie02/01.gif">
@@ -48,11 +54,11 @@ featured_image: '/images/000EXPERIMENTATIONS/3.png'
     <img src="/images/000EXPERIMENTATIONS/galerie02/14.png">
 </div>
 
-## Expérimentations pour le mémoire de M2 avec Openframeworks
+### Expérimentations pour le mémoire de M2 avec Openframeworks
 
 Quelques expérimentations pour découvrir des manières de génération de dessins de plantes, de paysage virtuel, d'interaction avec ces dessins et d'évolution du paysage avec une végétation générée en temps réel
 
-<div class="gallery" data-columns="5">
+<div class="gallery" data-columns="6">
 	<img src="/images/000EXPERIMENTATIONS/galerie03/01.gif">
     <img src="/images/000EXPERIMENTATIONS/galerie03/02.gif">
     <img src="/images/000EXPERIMENTATIONS/galerie03/03.gif">
@@ -87,7 +93,7 @@ Quelques expérimentations pour découvrir des manières de génération de dess
     <img src="/images/000EXPERIMENTATIONS/galerie03/61.gif">
 </div>
 
-<div class="gallery" data-columns="5">
+<div class="gallery" data-columns="6">
 	<img src="/images/000EXPERIMENTATIONS/galerie04/(1).jpg">
     <img src="/images/000EXPERIMENTATIONS/galerie04/(2).jpg">
     <img src="/images/000EXPERIMENTATIONS/galerie04/(3).jpg">
@@ -128,4 +134,72 @@ Quelques expérimentations pour découvrir des manières de génération de dess
     <img src="/images/000EXPERIMENTATIONS/galerie04/(35).png">
     <img src="/images/000EXPERIMENTATIONS/galerie04/(36).png">
     <img src="/images/000EXPERIMENTATIONS/galerie04/(37).png">
+</div>
+
+### Expérimentations initiales de génération automatique de formes et d'animations à partir de systèmes de règles ou de donénes simples sur Maya, Blender et Unity
+
+<div class="gallery" data-columns="4">
+	<img src="/images/000EXPERIMENTATIONS/galerie05/(1).gif">
+    <img src="/images/000EXPERIMENTATIONS/galerie05/(1).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie05/(2).gif">
+    <img src="/images/000EXPERIMENTATIONS/galerie05/(2).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie05/(3).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie05/(4).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie05/6.gif">
+    <img src="/images/000EXPERIMENTATIONS/galerie05/7.jpg">
+</div>
+
+### Expérimentation avec le head-tracking sur Unity avce Kinect V2
+
+Création exposée à la semaine des arts de Paris 8, en 2016.
+
+<div class="gallery" data-columns="6">
+	<img src="/images/000EXPERIMENTATIONS/galerie06/(1).gif">
+    <img src="/images/000EXPERIMENTATIONS/galerie06/(1).jpg">
+    <img src="/images/000EXPERIMENTATIONS/galerie06/(2).gif">
+    <img src="/images/000EXPERIMENTATIONS/galerie06/(2).jpg">
+    <img src="/images/000EXPERIMENTATIONS/galerie06/(3).gif">
+    <img src="/images/000EXPERIMENTATIONS/galerie06/(3).jpg">
+    <img src="/images/000EXPERIMENTATIONS/galerie06/(4).gif">
+    <img src="/images/000EXPERIMENTATIONS/galerie06/(4).jpg">
+    <img src="/images/000EXPERIMENTATIONS/galerie06/(5).jpg">
+    <img src="/images/000EXPERIMENTATIONS/galerie06/(6).jpg">
+</div>
+
+# Manipulation vidéographique et animation frame par frame
+
+<div class="gallery" data-columns="3">
+	<img src="/images/000EXPERIMENTATIONS/galerie08/(1).gif">
+    <img src="/images/000EXPERIMENTATIONS/galerie08/(2).gif">
+    <img src="/images/000EXPERIMENTATIONS/galerie08/(3).gif">
+</div>
+<div class="gallery" data-columns="3">
+	<img src="/images/000EXPERIMENTATIONS/galerie10/(1).gif">
+    <img src="/images/000EXPERIMENTATIONS/galerie10/(2).gif">
+    <img src="/images/000EXPERIMENTATIONS/galerie10/(3).gif">
+</div>
+
+# Dessin et illustration
+
+<div class="gallery" data-columns="6">
+	<img src="/images/000EXPERIMENTATIONS/galerie07/(1).jpg">
+    <img src="/images/000EXPERIMENTATIONS/galerie07/(1).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie07/(2).jpg">
+    <img src="/images/000EXPERIMENTATIONS/galerie07/(2).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie07/(3).jpg">
+    <img src="/images/000EXPERIMENTATIONS/galerie07/(3).png">
+</div>
+
+<div class="gallery" data-columns="6">
+	<img src="/images/000EXPERIMENTATIONS/galerie09/(1).jpg">
+    <img src="/images/000EXPERIMENTATIONS/galerie09/(1).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie09/(2).jpg">
+    <img src="/images/000EXPERIMENTATIONS/galerie09/(2).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie09/(3).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie09/(4).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie09/(5).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie09/(6).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie09/(7).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie09/(8).png">
+    <img src="/images/000EXPERIMENTATIONS/galerie09/(9).png">
 </div>

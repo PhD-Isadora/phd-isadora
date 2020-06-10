@@ -39,6 +39,10 @@ Other then digital arts, Isadora also experiments with 2D traditional animation,
 
 
 
+### Bandes-demo (Demoreel) 
+
+
+
 ---
 
 ## **Recherche-création** (FR)
