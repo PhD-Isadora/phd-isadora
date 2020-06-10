@@ -24,6 +24,8 @@ featured_image: '/images/Journal/Evenements/couverture.PNG'
 
 | Projet de création ou exposition |[Phileas foundation for contemporary art (only institutions)](http://www.phileasprojects.org/application.html)     |  Phileas works together with artists, museums and Biennials to enable the production, exhibition and acquisition of art for public institutions |    11 Septembre        | Partenariat avec INREV pour exposer sur la création d'acteurs virtuels et agents autonomes avec Christa et Laurent |
 
+|[Leonardo ABstracts Service](https://collections.pomona.edu/labs/)| Leonardo ABstracts Service |"LABS is a comprehensive database of abstracts of Ph.d, Masters and MFA theses in the emerging intersection between art, science and technology. Persons who have received advanced degress in arts (visual, sound, performing, text), computer sciences, the sciences and/or technology which in some way investigate philosophical, historical, critical or applications of science or technology to the arts are invited to submit an abstract of their thesis for publication consideration in this database." | 
+
 ---
 
 ## Événements scientifiques
