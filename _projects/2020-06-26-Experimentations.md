@@ -8,6 +8,9 @@ featured_image: '/images/000EXPERIMENTATIONS/3.png'
 
 ---
 
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/UcdMjq_cH_HUxAxU7--83w/620709795844046848" data-did="da39a3ee5e6b4b0d3255bfef95601890afd80709" data-language="en_US"><a href="https://isadorateles.tumblr.com/post/620709795844046848">https://isadorateles.tumblr.com/post/620709795844046848</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+
 # Image de synthèse
 
 ### Expérimentations de simulation de fluides et voxels
