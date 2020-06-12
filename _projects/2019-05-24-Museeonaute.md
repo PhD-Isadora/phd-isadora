@@ -10,11 +10,13 @@ featured_image: '/images/02MUSEEONAUTE/couverture.jpg'
 
 ## Description du projet
 
-## Auteurs
-- Isadora Teles de Castro
-- Alexandre Gomez
+## Co-Auteurs
+- Alexandre Gomez (création du modèle 3D de la lune)
+- Monique Gomez (production du costume en tissu)
 
-## La pré-production
+Merci beaucoup à toute la famille Gomez pour l'aide et soutien avec ce projet, en toutes ces étapes !
+
+## Pré-production
 
 ### Images de la pré-production
 <div class="gallery" data-columns="4">
@@ -63,8 +65,7 @@ featured_image: '/images/02MUSEEONAUTE/couverture.jpg'
 	<img src="/images/02MUSEEONAUTE/galerie03/13.gif">
 </div>
 
-
-## Performance
+## Performance au Grand-Palais (08 mai 2018)
 <div class="gallery" data-columns="4">
 	<img src="/images/02MUSEEONAUTE/galerie04/01.jpg">
 	<img src="/images/02MUSEEONAUTE/galerie04/02.jpg">
@@ -81,3 +82,5 @@ featured_image: '/images/02MUSEEONAUTE/couverture.jpg'
 	<img src="/images/02MUSEEONAUTE/galerie04/13.jpg">
 	<img src="/images/02MUSEEONAUTE/galerie04/14.gif">
 </div>
+
+## Restitutions et communications scientifiques

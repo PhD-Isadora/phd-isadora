@@ -10,18 +10,18 @@ featured_image: '/images/03GarbageGarden/couverture.PNG'
 
 ## Description du projet
 
-## Auteurs
-- Isadora Teles de Castro
+## Co-Auteurs
 - Alexandre Gomez
 - Elea Richeux
 - Coline Lubrina
+
+Merci beaucoup à la famille Richeux pour l'aide et pour le soutien pendant toutes les étapes de production de l'installation. Repas, logement, transport et compagnie inclus !! 
 
 ## Pré-production
 
 [Nous avons fait un journal de bord de la pré-production de l'installation sur tumblr !!](https://garbage---garden.tumblr.com/)
 
 <div class="gallery" data-columns="4">
-	<img src="/images/03GarbageGarden/galerie01/01.JPG">
     <img src="/images/03GarbageGarden/galerie01/02.JPG">
     <img src="/images/03GarbageGarden/galerie01/03.JPG">
     <img src="/images/03GarbageGarden/galerie01/04.JPG">

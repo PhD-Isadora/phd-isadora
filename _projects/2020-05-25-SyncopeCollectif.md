@@ -6,13 +6,19 @@ description:
 featured_image: '/images/01LVP/couverture.jpg'
 ---
 
+---
+
 ![](/images/01LVP/couverture.jpg)
 
 ## Description du projet
 
-## Auteurs
-- Isadora Teles de Castro
+
+---
+
+## Co-Auteurs
 - [Syncope Collectif](https://www.facebook.com/SyncopeCollectif/)
+
+---
 
 ## Processus de création sur scène
 <div class="gallery" data-columns="5">
@@ -43,6 +49,7 @@ featured_image: '/images/01LVP/couverture.jpg'
 	<img src="/images/01LVP/galerie03/LVP(27).jpg">
 </div>
 
+---
 
 ## Expérimentations en image fixe
 
@@ -77,12 +84,15 @@ featured_image: '/images/01LVP/couverture.jpg'
 	<img src="/images/01LVP/galerie01/LVP(29).jpg">
 </div>
 
+---
+
 ## Expérimentations animées
 
 <div class="gallery" data-columns="6">
 	<img src="/images/01LVP/galerie02/LVP01.gif">
 	<img src="/images/01LVP/galerie02/LVP02.gif">
 	<img src="/images/01LVP/galerie02/LVP03.gif">
+	<img src="/images/01LVP/galerie02/LVP04.gif">
 	<img src="/images/01LVP/galerie02/LVP06.gif">
 	<img src="/images/01LVP/galerie02/LVP07.gif">
 	<img src="/images/01LVP/galerie02/LVP08.gif">
