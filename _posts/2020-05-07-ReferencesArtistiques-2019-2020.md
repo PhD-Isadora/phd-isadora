@@ -3,7 +3,7 @@ title: 'Références artistiques et scientifiques'
 date: 2020-05-07 00:00:00
 subtitle: "Sélection de références et d'inspirations" 
 description: "Sélection d'autres chercheurs, artistes et institutions qui travaillent avec les thématiques touchées par ma recherche-création"
-featured_image: '/images/Journal/References/couverture.PNG'
+featured_image: '/images/Journal/References/couverture.png'
 ---
 
 ## Studios et Artistes

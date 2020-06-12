@@ -5,3 +5,7 @@ date: 2016-04-20 00:00:00
 description: "Réalisé avec Alexandre Gomez - Vidéo installation en image de synthèse, réalisé en 3 semaines"
 featured_image: '/images/11Malgranda/couverture.jpg'
 ---
+
+<div class="gallery" data-columns="6">
+	
+</div>

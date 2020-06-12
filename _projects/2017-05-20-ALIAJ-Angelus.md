@@ -21,7 +21,7 @@ featured_image: '/images/10AliajAngelus/couverture.png'
 
 ### Quelques images des plantes générées
 <div class="gallery" data-columns="6">
-	
+
 </div>
 
 <div class="gallery" data-columns="3">
