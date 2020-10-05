@@ -5,6 +5,20 @@ description: Ici j'essaye de construire une définition personnelle théorique e
 featured_image: /images/about.png
 ---
 
+## Systèmes complexes
+
+### Définitions trouvées
+
+### définitions personnelles
+
+### Forme et représentation
+
+### Ressources et bibliographie
+
+---
+
+
+
 ## Adaptation
 
 ### Définitions
