@@ -23,3 +23,6 @@ featured_image: '/images/things/SystemesGeneratifsPratique/couverture.png'
 * [School for poetic computation](https://sfpc.io/)
   * [Article by Jen Lowe about the SFPC](http://stet.editorially.com/articles/clearing-space/)
 
+## Algorithmes et techniques
+
+### The Computational Beauty of Nature
