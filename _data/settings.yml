@@ -1,11 +1,11 @@
 basic_settings:
-  site_title: Isadora Teles de Castro
+  site_title: Isadora T.
   favicon_image: /images/favicon.png
 
 header_settings:
   ##logo_image: /images/logo2.jpg
-  logo_image: /images/logo5.png
-  logo_width: 200
+  ##logo_image: /images/favicon.png
+  logo_width: 150
 
 menu_settings:
   menu_items:
@@ -28,7 +28,7 @@ footer_settings:
 
 grid_settings:
   overlay_opacity: 0.8
-  grid_spacing: 20
+  grid_spacing: 5
   content_alignment: bottom
 
 contact_settings:
@@ -67,24 +67,24 @@ social_settings:
 
 
 color_settings:
-  background_color:  '#eee4d8'
+  background_color:  '#000000'
   ##background_color:  '#ebdfd0'
   ##background_color: '#ebe2d3'
-  background_alt_color: '#f4f5f6'
+  background_alt_color: '#9bc49b'
   ##text_dark_color: '#4fbca3'
-  text_dark_color: '#127d80'
-  text_medium_color: '#000000'  
-  text_light_color: '#000000'
-  accent_color: '#bd3b3a'
-  border_color: '#f0e683'
-  overlay_background_color: '#904473'
-  overlay_text_color: '#f0e683'
-  overlay_accent_color: '#4cb59e'
+  text_dark_color: '#cffdbe'
+  text_medium_color: '#ffffff'  
+  text_light_color: '#ffffff'
+  accent_color: '#127d7f'
+  border_color: '#6386d4'
+  overlay_background_color: '#000000'
+  overlay_text_color: '#9bc49b'
+  overlay_accent_color: '#9bc49b'
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">'
-  title_font: '"Playfair Display", serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">'
+  title_font: '"Roboto", serif'
   body_font: '"Roboto", serif'
   regular_weight: 300
   bold_weight: 500
