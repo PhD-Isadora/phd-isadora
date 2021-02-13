@@ -4,8 +4,8 @@ basic_settings:
 
 header_settings:
   ##logo_image: /images/logo2.jpg
-  ##logo_image: /images/favicon.png
-  logo_width: 150
+  logo_image: /images/insta2.gif
+  logo_width: 80
 
 menu_settings:
   menu_items:
@@ -67,32 +67,33 @@ social_settings:
 
 
 color_settings:
-  background_color:  '#000000'
+  background_color:  '#ffffff'
   ##background_color:  '#ebdfd0'
   ##background_color: '#ebe2d3'
-  background_alt_color: '#9bc49b'
+  background_alt_color: '#b2006b'
   ##text_dark_color: '#4fbca3'
-  text_dark_color: '#cffdbe'
-  text_medium_color: '#ffffff'  
-  text_light_color: '#ffffff'
-  accent_color: '#127d7f'
-  border_color: '#6386d4'
-  overlay_background_color: '#000000'
-  overlay_text_color: '#9bc49b'
-  overlay_accent_color: '#9bc49b'
-  error_color: '#D64541'
+  text_dark_color: '#000000'
+  text_medium_color: '#000000'  
+  text_light_color: '#000000'
+  accent_color: '#bcba1c'
+  border_color: '#80f0b4'
+  overlay_background_color: '#8048b4'
+  overlay_text_color: '#80f0b4'
+  overlay_accent_color: '#fdc26b'
+  error_color: '#ff297f'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">'
-  title_font: '"Roboto", serif'
+  font_embed: '<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500&display=swap" rel="stylesheet">'
+  title_font: '"Merriweather", serif'
   body_font: '"Roboto", serif'
   regular_weight: 300
-  bold_weight: 500
+  bold_weight: 300
   site_title:
     small_size: 22
     medium_size: 26
     large_size: 30
-    weight: 100
+    weight: 300
     letter_spacing: -0.02
   menu:
     small_size: 60
@@ -101,14 +102,14 @@ font_settings:
     weight: 300
     letter_spacing: 0
   grid_item_title:
-    small_size: 22
-    medium_size: 24
+    small_size: 28
+    medium_size: 28
     large_size: 28
     weight: 300
     letter_spacing: -0.02
   grid_item_subtitle:
-    small_size: 13
-    medium_size: 15
+    small_size: 17
+    medium_size: 17
     large_size: 17
     weight: 300
     letter_spacing: 0

@@ -3,7 +3,7 @@ title: 'Le Muséeonaute'
 subtitle: 'Projet "Créons au Musée" - Costume éléctronique et performance au Grand Palais (2019)'
 date: 2019-05-24 00:00:00
 description: "Présenté au Grand Palais dans l'exposition La Lune : du voyage réel aux voyages imaginaires"
-featured_image: '/images/02MUSEEONAUTE/couverture.jpg'
+featured_image: '/images/02MUSEEONAUTE/01.PNG'
 ---
 
 ![](/images/02MUSEEONAUTE/couverture.jpg)

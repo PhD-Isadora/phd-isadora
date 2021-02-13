@@ -3,7 +3,7 @@ title: "Tout ce qu'il y a dans le ventre des poissons"
 subtitle: 'Dessins, animations et autres projets avec la compagnie de théâtre Syncope Collectif (2019/2020)'
 date: 2020-05-25 00:00:00
 description: 
-featured_image: '/images/01LVP/couverture.jpg'
+featured_image: '/images/01LVP/01.PNG'
 ---
 
 ---

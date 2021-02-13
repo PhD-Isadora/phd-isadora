@@ -1,19 +1,17 @@
 ---
-title: Isadora 
-subtitle: 'Artist and PhD student, based in Paris'
+title: About me  
+subtitle: "Hi ! I'm Isadora. I'm an artist and PhD student. My research is about digital arts and artificial life."
 description: 
 featured_image: /images/about.png
 ---
 
-![](/images/about_petit.png)
-
-## **Bio** (FR)
+## Bio (FR)
 
 Isadora est une jeune artiste brésilienne basée à Paris. Elle est actuellement doctorante contractuelle en Images Numériques au sein de l'équipe de recherche INREV, à l'université Paris 8.
 
 Sa pratique et sa recherche se basent sur des expérimentations, à l’aide des techniques de création d’images virtuelles en temps-réel, pour imaginer des expériences artistiques interactives. Elle croit au potentiel expressif et poétique des nouvelles technologies et des processus informatiques pour penser les espaces numériques comme étant des écosystèmes vivants et expressifs, qui permettent des relations collaboratives et spontanées, qui fournissent un contexte fertile pour l’expérimentation créative et qui motivent l’imagination, la fantaisie et l’extrapolation des expériences quotidiennes. Sa démarche artistique consiste à utiliser la technologie pour créer des univers qui se construisent de manière autonome à partir de l’imaginaire et de mémoires subjectives, collectives ou inventées. L’espace virtuel lui sert à transposer et interpréter des pensées spontanées et instinctives qui se transforment en sensations et en nouvelles relations de manière imprévisible.
 
-## **Bio** (ENG)
+## Bio (ENG)
 
 Isadora is a brazilian PhD student and artist based in Paris. Her artistic experimentations are based on the use of artificial life algorithms as well some physics simulation ones associated with interactive real-time computer graphics rendering techniques in order to propose poetic experiences  and exchanges with  natural and architetural environments or imagined versions of it.
 
