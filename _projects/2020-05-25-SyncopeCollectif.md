@@ -152,7 +152,7 @@ C'était une prémière expérience de co-création visuelle avec des acteurs po
 	<img src="/images/01LVP/galerie02/LVP14.gif">
 	<img src="/images/01LVP/galerie02/LVP15.gif">
 	<img src="/images/01LVP/galerie02/LVP016.GIF">
-	<img src="/images/01LVP/galerie02/LVP18.GIF">
+	<img src="/images/01LVP/galerie02/lalala.gif">
 </div>
 
 ## Vidéo de la prémière présentation de la pièce
