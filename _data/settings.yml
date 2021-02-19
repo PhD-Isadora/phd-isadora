@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Isadora T.
+  site_title: Isadora Teles de Castro
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -88,7 +88,7 @@ font_settings:
   title_font: '"Merriweather", serif'
   body_font: '"Roboto", serif'
   regular_weight: 300
-  bold_weight: 300
+  bold_weight: 500
   site_title:
     small_size: 22
     medium_size: 26
@@ -96,9 +96,9 @@ font_settings:
     weight: 300
     letter_spacing: -0.02
   menu:
-    small_size: 60
-    medium_size: 28
-    large_size: 30
+    small_size: 48
+    medium_size: 33
+    large_size: 24
     weight: 300
     letter_spacing: 0
   grid_item_title:
@@ -156,9 +156,9 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   p:
-    small_size: 14
-    medium_size: 16
-    large_size: 18
+    small_size: 12
+    medium_size: 14
+    large_size: 16
     weight: 300
     letter_spacing: 0
     line_height: 1.8
