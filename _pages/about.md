@@ -9,8 +9,7 @@ featured_image: /images/about.png
 
 CV 2020 Isadora Teles de Castro (pdf)
 
-<embed src="https://phd-isadora.github.io/images/pdf/CV_IsadoraTelesDeCastroECosta_2020.pdf" type="application/pdf" />
-
+<a href="phd-isadora.github.io/images/pdf/CV_IsadoraTelesDeCastroECosta_2020.pdf" target="_blank">PDF.</a>
 
 ## Bio (FR)
 
