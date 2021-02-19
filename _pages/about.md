@@ -5,11 +5,60 @@ description:
 featured_image: /images/about.png
 ---
 
+## Curriculum Vitae
+
+CV 2020 Isadora Teles de Castro (pdf)
+
+<embed src="https://phd-isadora.github.io/images/pdf/CV_IsadoraTelesDeCastroECosta_2020.pdf" type="application/pdf" />
+
+
 ## Bio (FR)
 
-Isadora est une jeune artiste brésilienne basée à Paris. Elle est actuellement doctorante contractuelle en Images Numériques au sein de l'équipe de recherche INREV, à l'université Paris 8.
+Isadora est une jeune artiste brésilienne basée à Paris. Elle est actuellement doctorante contractuelle en Images numériques au sein de l’équipe de recherche INREV, à l’université Paris 8. Sa pratique artistique se situe dans les domaines de l’art génératif numérique, de l’art évolutif et la modélisation des systèmes auto-organisateurs.
 
-Sa pratique et sa recherche se basent sur des expérimentations, à l’aide des techniques de création d’images virtuelles en temps-réel, pour imaginer des expériences artistiques interactives. Elle croit au potentiel expressif et poétique des nouvelles technologies et des processus informatiques pour penser les espaces numériques comme étant des écosystèmes vivants et expressifs, qui permettent des relations collaboratives et spontanées, qui fournissent un contexte fertile pour l’expérimentation créative et qui motivent l’imagination, la fantaisie et l’extrapolation des expériences quotidiennes. Sa démarche artistique consiste à utiliser la technologie pour créer des univers qui se construisent de manière autonome à partir de l’imaginaire et de mémoires subjectives, collectives ou inventées. L’espace virtuel lui sert à transposer et interpréter des pensées spontanées et instinctives qui se transforment en sensations et en nouvelles relations de manière imprévisible.
+Passionnée par la création de programmes qui peuvent générer des formes et des comportements autonomes et organiques, elle découvre le domaine de la vie artificielle et des systèmes complexes liés à la création artistique lors de sa recherche-création de master. Depuis, sa création se base sur la conception d’entités virtuelles dotées d’un comportement autonome qui apparente une intentionnalité. Le processus se complète avec la création de manières d'interagir avec ses entités afin d’établir un dialogue poétique et dramaturgique.
+
+La relation avec l'environnement de manière non controlatrice, en prenant compte de l’autonomie des choses et des personnes. Qu'est-ce qu’il y a dans un dialogue ? Qu'est-ce qui ressort, émerge, d’un dialogue entre deux intentions différentes ? 
+Comment modéliser une autonomie et non-pas quelque chose qui va juste réagir, suivre une commande ? 
+Comment rendre cette relation entre deux autonomies un processus esthétique poétique ?
+Cela est quelque chose dans le théâtre ? Dans l’improvisation ?
+Mon origine et les religiosités, croyances naturalistes au brésil, où il y a une idée d’interaction et de partage avec la nature qui était réduit au silence pendant mon enfance mais qui en europe est valorisé en tant que sujet de recherche scientifique et anthropologique.
+Ma sensation d’impuissance face à mon environnement, comment j'interagis avec mon entourage, personnes, animaux, espaces, objets ? 
+Comment cette interaction contribue ou pas avec mes croyances sur le monde et sur mon identité/individualité ?
+Comment rendre l'expérience de la complexité quelque chose tangible, poétique et dramaturgie câble ?
+Le passage de l’expérience de manque de contrôle et de sensation de collectivité est une simplification pour être partageable ? C'est un processus de métaphorisation de mon expérience individuelle avec tous les biais et réductionnistes des métaphores ? 
+Quel est le lien entre mon expérience du monde et mes origines culturelles ?
+Comment rendre compte esthétiquement du conflit entre individualité et collectivité ?
+
+**Intention artistique**
+
+L’intention est de créer des expériences où, par le biais de l’interaction avec un environnement perceptif et actif, le performeur puisse avoir l’opportunité de transformer et de négocier avec cet environnement. Un espace doté d’images dynamiques et de membres mécanisés pourra possiblement transformer la perception humaine de l’espace ? Quel est la conséquence performative de se rendre compte que l’environnement répond de manière imprévisible et se modifie selon son geste, sa présence, son action ? 
+
+**Objectifs**
+
+Son but est d’étudier comment l’auto-organisation et la notion d’émergence sont modélisées et théorisées dans les domaines artistique et scientifique pour les utiliser dans sa pratique comme outil de création de mécanismes générateurs de structures et fonctionnalités dans un contexte d’une scénographie de théâtre d’improvisation. 
+
+**Méthode**
+
+Les entités autonomes créés avec des algorithmes issus du domaine de la modélisation de la complexité associé aux algorithmes évolutifs (étudiés aussi dans le domaine de l’auto-organisation et de l’émergence biologique, connu comme “vie artificielle”) dotés de capacités perceptives des performeurs et autres éléments de l’environnement de la scène pourront être pensés comme un personnage scénographique. Le travail de réflexion et conception dramaturgique du système virtuel ainsi que celui de design d’une interface/scénographie interactive et narrative sont faits en association avec des metteurs en scène, performeurs, chorégraphes et experts en HMI (interface homme-machine).
+
+**Questions principales**
+
+Les principales questions qui traversent son parcours actuel de recherche théorique et de création artistique sont :
+Comment les algorithmes de modélisation de systèmes auto-organisateurs sont-ils utilisés en science et en arts ?
+Quel est le discours, les objectifs, sensibles, poétiques et pragmatiques de cette utilisation ?
+Quelle analyse critique de cette théorisation et pratique existe par rapport au contexte socio-politique-culturel et par rapport à d’autres domaines ?
+Comment le savoir technique et théorique enrichi ma pratique artistique et nourrit ma réflexion et mon savoir-faire par rapport à mes intentions artistiques et buts expressifs ?
+Comment la perception et aussi l’intention de contrôle et d’autonomie sont vécues quand la personne est en interaction avec des objets autonomes ? (un début de questionnement déjà présent dans le domaine de la robotique)
+
+**Obstacles**
+
+Actuellement je rencontre des obstacles de deux ordres : pratiques et théoriques. Dans le domaine pratique, je me suis rendue compte que la simulation de systèmes auto-organisateur est mieux modélisée par le biais du calcul en parallèle. C'est-à-dire, avec la carte graphique et avec la programmation orientée argent. Ce sont des techniques que je connais mais dont je dois apprendre et cela prend du temps. Il manque aussi de l’espace pour la création et expérimentation avec l'électronique IoT, partie du projet EVE (ARTEC) qui me permettront de construire les moyens de perception et action de l’environnement virtuel (unwelt virtuelle). L’obstacle théorique est la découverte de la grande portée du domaine des systèmes auto-organisateurs en science et la petite bibliographie spécifique sur l’utilisation du concept et de ses techniques dans le domaine artistique. La recherche théorique a été donc subdivisée en techniques spécifiques du grand domaine en comment elles sont théorisées et pratiquées pour ensuite essayer d'assembler les pistes et finalement rendre compte de comment les artistes parlent sur la complexité et l’auto-organisation dans leurs créations.
+
+**Création et expositions récentes**
+
+Isadora a participé à des expositions dans des contextes de grande visibilité comme au Grand Palais, au festival Bains Numériques, au festival Ars Electronica, à la Gaîté Lyrique et à la Nuit Blanche de Paris. L’artiste-chercheuse a aussi participé à des résidences artistiques, projets de recherche-création pluridisciplinaire et expositions dans des cadres plus alternatifs et communautaires. Dans le cadre de sa recherche-création, elle expérimente actuellement sur la conception de costumes électroniques sensibles et connectés ainsi que sur le développement informatique de visuels évolutifs interactifs pour la scénographie théâtrale d’improvisation.
+
 
 ## Bio (ENG)
 
@@ -18,28 +67,6 @@ Isadora is a brazilian PhD student and artist based in Paris. Her artistic expe
 Her experience with artistic communication includes partcipations on some relatively renowned art festivals and contemporary art exhibitions. She took part in festivals as Bains Numériques  (France - 2016 and 2018), Ars Electronica Festival (Austria 2017),  the Laval Virtual Salon (France 2018) and the Gif Jam at the Parc de la Villette (France 2018).
 
 Other then digital arts, Isadora also experiments with 2D traditional animation, illustration, electronics and, most recently, web data visualisation.
-
----
-
-## **Formation**
-
-**2020**
-
-
-**2019**
-
-
-**2018**
-
----
-
-## **Créations artistiques**
-
-
-
-### Bandes-demo (Demoreel) 
-
-
 
 ---
 
@@ -89,64 +116,6 @@ I also intend to clarify and to make explicit the conceptual and technical chall
 - [Université Paris 8](https://www.univ-paris8.fr/)
 
 ---
-
-## Publications
-
-#### Revues
-
-**Articles scientifiques dans les revues nationales (avec comité de lecture)**
-
-- (revue INREV n6), 2018
-
-#### Actes de conférences
-
-**Articles scientifiques dans les actes de conférence internationales (avec comité de lecture)**
-
-- Colloque "Créons au musée" 2019
-- Colloque "Écologies", 2020
-
----
-
-## Activité de recherche-création
-
-#### Indices de reconnaissance
-
-**Résidences artistiques**
-
-- 2019 - Residence artistique avec la companie de théâtre Syncope Collectif aux Studios de Virecourt pour la création de la scénographie de la pièce "*Tout ce qu'il y a dans le ventre des poissons*", présentée au festival Traits d'Union - Festival de la jeune création en Jnavier 2020
-- 2017 - Résidence artistique à la Gaîté Lyrique pour la réalisation de l’œuvre *Gardien de Souvenirs*, en co-création avec Anômes. Paris, France
-- 2016 - Résidence artistique à la MAC+ / Maison des Arts de Créteil pour la réalisation de l’installation *Contes Électroniques*
-- 2015 - Résidence artistique au centre d’arts « Le Chêne » pour la réalisation d’installations et de l’exposition “Ne Me Touches Pas”, avec le collectif **Pirama Collective** (projet subventionnée par la FSDIE de l’université Paris 8). Villejuif, France
-
-**Bourses**
-
-- Contrat doctoral EDESTA, 2018
-
-#### Produits destinés au grand public
-
-**Produits de médiation scientifique ou culturelle**
-
-- Organisation d'exposition au Chêne, 2015
-
-**Créations artistiques théorisées**
-
-- 
-
-**Expositions**
-
-- 2018 - « Fabrique Numérique » Festival Les Bains Numériques, avec l’installation interactive en réalité virtuelle *Aliaj Angélus II*, en co-création avec Alexandre Gomez. Enghien-les-Bains, France
-- 2018 - « Gif Jam » Folie Numérique au Parc de la Villette, avec l’installation interactive *Garbage Garden*, en co-création avec Alexandre Gomez, Coline Lubrina et Elea Richeux. Paris, France
-- 2018 - « Recto Vrso OFF », Musée d’Art Naïf et d’Arts Singuliers de Laval, Festival Laval Virtual, avec les installations interactives *Aliaj Angélus* et *The Sung Portrait*, en co-création avec Alexandre Gomez. Laval, France 2017 - « Nuit Blanche de Paris » à la Rotonde, avec l’installation The Room, co-création avec Romain Cieutat et Alexandre Gomez. Paris, France
-- 2017 - « Made in Linz », Festival Ars Electronica, avec l’installation interactive *The Sung Portrait*. Linz, Autriche
-- 2016 - « Fabrique Numérique », Festival Les Bains Numériques, avec l’installation interactive de réalité virtuelle *Parallelograms*. Enghien-les-Bains, France
-- 2016 - Scénographie pour « Scarifications Tour » d’Abd al Malik, en collaboration avec Romain Cieutat. France
-- 2016 - MAC+, Festival EXIT, avec l’installation interactive Contes Électroniques, en co-création avec Andréa Fernandez, Alexandre Gomez, Coline Lubrina et Elea Richeux. Créteil, France
-- 2016 - Série de Zines *Le Bâtiment Rond* avec le collectif Pirama Collective (subventionnée par la FSDIE de l’université Paris 8 et distribuées dans le cadre du colloque Poetics of Politics à Linz, Autriche)
-
-## Communication scientifique
-
-- Colloque international Créons au musée
-- TELES DE CASTRO E COSTA Isadora, *Les Vies Artificielles, "*Le paysage numérique immersif comme forme émergente de la complexité", Centre de Veille et Innovation de CréaTIC, Paris, 2018.
 
 ## **Réseaux sociaux**
 

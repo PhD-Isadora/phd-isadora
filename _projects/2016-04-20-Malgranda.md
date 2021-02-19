@@ -3,7 +3,7 @@ title: 'Malgranda'
 subtitle: 'Vidéo mapping / installation en image de synthèse, réalisé en 3 semaines'
 date: 2016-04-20 00:00:00
 description: "2016"
-featured_image: '/images/11Malgranda/couverture.jpg'
+featured_image: '/images/11Malgranda/couverture.JPG'
 ---
 
 ![](/images/11Malgranda/couverture.JPG)

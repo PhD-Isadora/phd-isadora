@@ -3,7 +3,7 @@ title: 'Parallelograms'
 subtitle: 'Installation interactive en VR et électronique'
 date: 2016-05-20 00:00:00
 description: "2016"
-featured_image: '/images/12Parallelograms/couverture1.png'
+featured_image: '/images/12Parallelograms/couverture1.PNG'
 ---
 
 ![](/images/12Parallelograms/galerie01/3.PNG)
